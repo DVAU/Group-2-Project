@@ -19,7 +19,7 @@ h1 {
 
 h2 {
   font-weight: 300;
-  font-size: 36px;
+  font-size: 24px;
   text-transform: uppercase;
   line-height: 40px;
 }
@@ -30,15 +30,6 @@ h3 {
   line-height: 30px;
   margin: 0px 0px;
 }
-
-h4 {
-  font-weight: 600;
-  font-size: 20px;
-  text-transform: uppercase;
-  margin: 0;
-  line-height: 30px;
-  }
-
 
 p {
   font-weight: 400;
@@ -60,20 +51,22 @@ header {
 
 
 .container {
-  max-width: 1040px;
+  max-width: 900px;
   margin: auto;
-  padding: 60px 0px;
+  padding: 40px 0px;
   display: block;
   text-align: center;
   color: #1b1b1b;
   text-decoration: none;
 }
 
+.description{
+  text-align: center;
+}
+
 
 .visualisation{
   text-align: center;
-  background: rgb(255,255,255);
-  padding: 0px 15px;
   min-height: 300px;
 }
 
