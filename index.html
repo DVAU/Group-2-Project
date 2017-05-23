@@ -8,6 +8,7 @@
   <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,100,500,600,700,900' rel='stylesheet' type='text/css'>  
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+  <script src="https://d3js.org/d3.v4.min.js"></script>
 </head>
 
 <body>
@@ -18,121 +19,29 @@
   <div class="description">
     <div class="container">
       <h3> Welcome to our Data Visualisation Project. Here you can find blabla  </h3>
-      <p>Sources: "asdasdas"</p>
+      <p><b>Sources:</b> "asdasdas"</p>
     </div>
   </div>
 
   <div class="visualisation">
     <div class="container">
       <h2>Overall countyr states balbla</h2>
-      <p> PUT YOUR SHIT HERE ARNAV :)  </p>
-    </div>
-  </div>
-
-  <div class="visualisation">
-          <h2>count /age</h2>
-
-      <p>  David here </p>
-    <div class="container">
+        <script type="text/javascript" src="OverallCountPerState.js">
     </div>
   </div>
 
   <div class="visualisation">
     <div class="container">
-            <h2>year crashtype</h2>
+      <h2>count /age</h2>
+        <script type="text/javascript" src="NumberOfCrashesPerAge.js">
+    </div>
+  </div>
 
+  <div class="visualisation">
+    <div class="container">
+      <h2>year crashtype</h2>
       <p>  me here :) </p>
-      <style>
-
-.bar {
-  fill: black;
-}
-
-.bar:hover {
-  fill: blue;
-}
-
-.axis--x path {
-  display: none;
-}
-
-</style>
-<svg width="900" height="500"></svg>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script>
-
-// 1)
-// select the "svg" HTML element 
-var svg = d3.select("svg"),
-    margin = {top: 20, right: 20, bottom: 30, left: 40},
-    // svg.attr("width") returns the "width" attribute of "svg": 960
-    width = +svg.attr("width") - margin.left - margin.right,
-    height = +svg.attr("height") - margin.top - margin.bottom;
-// 2)
-// x and y variables contains the range for their respective axis
-// .scaleBand() and scaleLinear() defines the type of range
-// .rangeBound sets the actual range values for that axis
-var y = d3.scaleBand().rangeRound([0, width]).padding(0.1),
-    x = d3.scaleLinear().rangeRound([0, height]);
-// 3)
-// svg.append() creates a new HTML element withing "svg"
-var g = svg.append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-// 4)
-// d3.tsv() loads "data.tsv"
-d3.tsv("data.tsv", function(d) {
-  // d.frequency's type has to be set as numbers using the "+" here
-  d.frequency = +d.frequency;
-  return d;
-}, function(error, dataset) {
-  if (error) throw error;
-  // 5)
-  // domain() defines the domain of x and y (within the ranger declared above)
-  y.domain(dataset.map(function(d) { return d.letter; }));
-  x.domain([0, d3.max(dataset, function(d) { return d.frequency; })]);
-  // 6)
-  // the x axis is created here using g.append("g")
-  // their attributes are then updated using .attr
-  g.append("g")
-      .attr("class", "axis axis--x")
-      .attr("transform", "translate(0," + height + ")")
-      // .call is used to call a D3 function
-      // here the d3.axisBottom() declares the value x and the x axis of our visualization 
-      .call(d3.axisBottom(x).ticks(10, "%"));
-
-  // same as for the x-axis (with different setting)
-  g.append("g")
-      .attr("class", "axis axis--y")
-      .call(d3.axisLeft(y))
-    .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", "0.71em")
-      .attr("text-anchor", "end")
-      .text("Frequency");
-  // 7)
-  // this is where the main part of the visualization is setup: the bars
-  // note that we select elements that do not exist yet at this point of the code
-  g.selectAll(".bar")
-    // our selection is linked to the dataset using .data(dataset)
-    .data(dataset)
-    // .enter().append("rect") will create one rectangle per elements in our dataset
-    .enter().append("rect")
-      // these rectangles are given the "bar" class (so we can select them on line 75)
-      .attr("class", "bar")
-      // the attributes x and y are loaded using a function which takes our variables 
-      // (d.letter or d.frequency), mapped into a specific range (the x and y declared on line 33) 
-      .attr("y", function(d) { return y(d.letter); })
-      .attr("x",0)
-      // finally the width and height are defined
-      // for x with have a set width "x.bandwidth()" 
-      .attr("height", y.bandwidth())
-      // for y we set it to be height - the frequency mapped into our y range
-      .attr("width", function(d) { return x(d.frequency); });
-});
-
-</script>
+      <script type="text/javascript" src="TypeOfCrashPerState.js">
 
     </div>
   </div>
@@ -140,7 +49,7 @@ d3.tsv("data.tsv", function(d) {
   <footer>
     <div class="footer">
         <h5> Credits </h5>
-        <p> Matthias Cordes, David Harris, Arnav Mundkur
+        <p> Matthias Cordes, David Harris, Arnav Mundkur <br> Creative Technoloy - University of Twente</p>
         <p id="copyright"> &copy 2017 - Group 1</p>   
     </div>
   </footer>
