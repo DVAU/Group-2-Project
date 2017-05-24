@@ -4,13 +4,23 @@ html, body {
   font-family: 'Raleway';
 }
 
+header {
+  width: 100%;
+  height: 70px;
+  background: white;
+  border-bottom: 1px solid rgb(237,238,238);
+  box-shadow: 0 5px 5px rgba(0,0,0,.2);
+  position: fixed; 
+
+}
+
 h1, h2, h3, h4, h5, a, p {
     color: rgb(41, 41, 41)
 }
 
 h1 {
   font-weight: 700;
-  font-size: 24pt;
+  font-size: 20pt;
   margin: 0;
   color: rgb(41, 41, 41);
   text-align: center;
@@ -42,22 +52,6 @@ a {
   color: black;
 }
 
-header {
-  width: 100%;
-  height: 70px;
-  background: white;
-  border-bottom: 1px solid rgb(237,238,238);
-}
-
-svg {
-position: relative;
-left: 50%;
--webkit-transform: translateX(-50%);
--ms-transform: translateX(-50%);
-transform: translateX(-50%);
-}
-
-
 .container {
   max-width: 900px;
   margin: auto;
@@ -67,16 +61,13 @@ transform: translateX(-50%);
   text-decoration: none;
 }
 
+
 .description{
-  text-align: center;
-  background-color: rgb(250,250,250);
+  padding-top: 70px;
 }
 
-
 .visualisation{
-  text-align: center;
   min-height: 300px;
-  background-color: rgb(250,250,250);
 
 }
 
@@ -95,17 +86,18 @@ transform: translateX(-50%);
   padding-bottom: 15px;
   color: white;
   padding-bottom: 50px;
-  line-height: 20px;
+  line-height: 22px;
 
 }
 
 .footer h5{
 	text-transform: uppercase;
-  font-size: 8pt;
+  font-size: 14pt;
   margin: 0px;
   color: white;
   padding-top: 50px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
+  font-weight: 200;
 }
 
 #copyright{
@@ -113,14 +105,25 @@ transform: translateX(-50%);
   padding: 40px 0px 10px 0px;
 }
 
-.bar {
-  fill: steelblue;
-}
 
-.bar:hover {
-  fill: brown;
-}
+/* STYLING FOR MATTHIAS SVG PART */
 
-.axis--x path {
-  display: none;
-}
+  svg {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+  }
+
+  .axis path,
+  .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+  }
+
+  .axis text{
+      font: Times;
+      font-size: 12px;
+      font-weight: bold;
+  }
