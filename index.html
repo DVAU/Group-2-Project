@@ -3,55 +3,66 @@
 
 <head>
   <title>Car Accidents in Australia</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="https://d3js.org/d3.v3.js"></script>
+  <link rel="stylesheet" href="foundation.css">
+  <link rel="stylesheet" href="custom.css">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
   <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,100,500,600,700,900' rel='stylesheet' type='text/css'>  
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
-  <script src="https://d3js.org/d3.v4.min.js"></script>
 </head>
 
 <body>
-  <header>
-    <h1>Car Accidents in Australia</h1>
-  </header>
+  <header><h1>Car Accidents in Australia</h1></header>
 
   <div class="description">
     <div class="container">
-      <h3> Welcome to our Data Visualisation Project. Here you can find blabla  </h3>
-      <p><b>Sources:</b> "asdasdas"</p>
+      <h3> Welcome to our Data Visualisation Project. Here you can find interesting statistics about the amount and type off traffic accidents in the different states of Australia. For the visualisation the javascript library d3.js has been used. </h3> <br>
+      <p><b>Sources:</b> <a target="_blank" href="http://data.gov.au/">data.gov.au</a></p>
     </div>
   </div>
 
   <div class="visualisation">
     <div class="container">
       <h2>Overall accidents dependind on state</h2>
-        <script type="text/javascript" src="OverallCountPerState.js"></script>
-        <p>  Lorem Ipsum </p>
+      <p>This bubble graph shows you a visual comparison of accidents in different states.</p>
+        <div id="chart-svg2"></div>
+        <script type="text/javascript" src="CrashesPerState.js"></script>
     </div>
   </div>
 
   <div class="visualisation">
     <div class="container">
       <h2>Number of crashes depening on age</h2>
-
-        <script type="text/javascript" src="NumberOfCrashesPerAge.js"></script>
-        <p>Lorem Ipsum </p>
+      <p>Lorem Ipsum </p>
+      <div id="chart2-svg"></div>
+      <script type="text/javascript" src="CrashesPerAge.js"></script>
     </div>
   </div>
 
   <div class="visualisation">
     <div class="container">
-      <h2>Different crashtypes in states</h2>
-      <script type="text/javascript" src="TypeOfCrashPerState.js"></script>
-      <p>Lorem Ipsum </p>
-    </div>
+      <h2>Type Of Dying Roaduser Per State</h2>
+      <p>This section gives an overview about the type of road users who die in an accident compared with the different states of Australia. You can decide between a grouped and a stacked representation of the values.</p>
+      <form>
+        <label><input type="radio" name="mode" value="grouped"> Grouped</label>
+        <label><input type="radio" name="mode" value="stacked" checked> Stacked</label>
+      </form> 
+      <div id="chart-svg"></div>
+      <script type="text/javascript" src="TypeOfRoadUser.js"></script>
+
+    </div> 
   </div>
 
   <footer>
     <div class="footer">
         <h5> Credits </h5>
-        <p><b> Matthias Cordes, David Harris, Arnav Mundkur</b><br> Creative Technoloy - University of Twente</p>
+        <b><a target="_blank" href="www.matthiascordes.com/">Matthias Cordes</a>,  
+          <a target="_blank" href="www.matthiascordes.com/">David Harris</a>,  
+          <a target="_blank" href="www.matthiascordes.com/">Arnav Mundkur</a>
+        </b>
+
+        <br> Creative Technoloy - University of Twente</p>
         <p id="copyright"> &copy 2017 - Group 1</p>   
     </div>
   </footer>
