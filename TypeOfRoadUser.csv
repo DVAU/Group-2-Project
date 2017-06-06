@@ -1,0 +1,9 @@
+Category,Driver,Motorcyle,Passenger,Pedestrian,Bicyclist
+NT,19,4,15,6,0
+QLD,106,62,38,37,8
+NSW,192,66,53,72,5
+VIC,151,56,36,40,7
+SA,41,9,0,31,5
+WA,100,41,45,13,3
+ACT,5,3,0,1,0 
+TAS,17,10,6,4,0

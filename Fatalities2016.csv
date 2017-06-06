@@ -1,0 +1,1296 @@
+State,Crash_in_state,Year,Crash_Type,crashes_per_type,Speed_Limit,Road_User,Age,crashes_per_age
+ACT,9,2016,Single,570,100,Driver,21,25
+ACT,9,2016,Multiple,556,70,Motorcycle rider,24,28
+ACT,9,2016,Single,570,60,Driver,24,28
+ACT,9,2016,Single,570,80,Motorcycle rider,25,35
+ACT,9,2016,Single,570,100,Motorcycle rider,36,29
+ACT,9,2016,Multiple,556,100,Driver,39,16
+ACT,9,2016,Pedestrian,169,50,Pedestrian,44,26
+ACT,9,2016,Multiple,556,100,Driver,53,20
+ACT,9,2016,Multiple,556,80,Driver,63,9
+NSW,383,2016,Pedestrian,169,50,Pedestrian,1,6
+NSW,383,2016,Single,570,110,Passenger,1,6
+NSW,383,2016,Pedestrian,169,50,Pedestrian,2,4
+NSW,383,2016,Pedestrian,169,70,Pedestrian,3,2
+NSW,383,2016,Single,570,100,Passenger,3,2
+NSW,383,2016,Pedestrian,169,100,Pedestrian,10,4
+NSW,383,2016,Single,570,60,Passenger,11,1
+NSW,383,2016,Multiple,556,80,Passenger,12,3
+NSW,383,2016,Single,570,80,Passenger,13,1
+NSW,383,2016,Pedestrian,169,50,Pedestrian,14,6
+NSW,383,2016,Single,570,100,Passenger,14,6
+NSW,383,2016,Multiple,556,50,Motorcycle rider,14,6
+NSW,383,2016,Single,570,110,Passenger,15,8
+NSW,383,2016,Pedestrian,169,60,Pedestrian,15,8
+NSW,383,2016,Single,570,100,Passenger,15,8
+NSW,383,2016,Single,570,100,Passenger,16,10
+NSW,383,2016,Single,570,100,Driver,16,10
+NSW,383,2016,Pedestrian,169,70,Pedestrian,16,10
+NSW,383,2016,Single,570,60,Driver,17,27
+NSW,383,2016,Multiple,556,70,Driver,17,27
+NSW,383,2016,Single,570,100,Driver,17,27
+NSW,383,2016,Single,570,80,Driver,17,27
+NSW,383,2016,Single,570,110,Passenger,17,27
+NSW,383,2016,Single,570,50,Driver,17,27
+NSW,383,2016,Pedestrian,169,60,Pedestrian,17,27
+NSW,383,2016,Single,570,50,Passenger,17,27
+NSW,383,2016,Single,570,100,Passenger,17,27
+NSW,383,2016,Single,570,100,Driver,17,27
+NSW,383,2016,Multiple,556,70,Motorcycle rider,17,27
+NSW,383,2016,Multiple,556,100,Driver,17,27
+NSW,383,2016,Single,570,100,Passenger,18,30
+NSW,383,2016,Single,570,100,Driver,18,30
+NSW,383,2016,Multiple,556,110,Motorcycle rider,18,30
+NSW,383,2016,Multiple,556,110,Driver,18,30
+NSW,383,2016,Multiple,556,60,Motorcycle rider,18,30
+NSW,383,2016,Multiple,556,70,Motorcycle rider,18,30
+NSW,383,2016,Single,570,100,Driver,18,30
+NSW,383,2016,Single,570,100,Driver,18,30
+NSW,383,2016,Multiple,556,80,Driver,18,30
+NSW,383,2016,Single,570,100,Passenger,18,30
+NSW,383,2016,Single,570,80,Passenger,18,30
+NSW,383,2016,Pedestrian,169,100,Pedestrian,18,30
+NSW,383,2016,Pedestrian,169,50,Pedestrian,18,30
+NSW,383,2016,Multiple,556,100,Passenger,19,24
+NSW,383,2016,Multiple,556,80,Driver,19,24
+NSW,383,2016,Single,570,50,Driver,19,24
+NSW,383,2016,Pedestrian,169,90,Pedestrian,19,24
+NSW,383,2016,Single,570,100,Driver,19,24
+NSW,383,2016,Multiple,556,50,Passenger,20,26
+NSW,383,2016,Single,570,60,Driver,20,26
+NSW,383,2016,Single,570,60,Passenger,20,26
+NSW,383,2016,Multiple,556,60,Driver,20,26
+NSW,383,2016,Pedestrian,169,70,Pedestrian,20,26
+NSW,383,2016,Single,570,60,Motorcycle rider,20,26
+NSW,383,2016,Single,570,50,Motorcycle pillion passenger,20,26
+NSW,383,2016,Single,570,60,Driver,20,26
+NSW,383,2016,Single,570,60,Motorcycle rider,20,26
+NSW,383,2016,Single,570,80,Passenger,20,26
+NSW,383,2016,Multiple,556,100,Driver,20,26
+NSW,383,2016,Pedestrian,169,60,Pedestrian,21,25
+NSW,383,2016,Pedestrian,169,60,Pedestrian,21,25
+NSW,383,2016,Single,570,110,Driver,21,25
+NSW,383,2016,Single,570,100,Driver,21,25
+NSW,383,2016,Multiple,556,100,Motorcycle rider,21,25
+NSW,383,2016,Multiple,556,100,Driver,21,25
+NSW,383,2016,Single,570,100,Passenger,22,37
+NSW,383,2016,Single,570,100,Passenger,22,37
+NSW,383,2016,Multiple,556,80,Driver,22,37
+NSW,383,2016,Multiple,556,70,Motorcycle rider,22,37
+NSW,383,2016,Single,570,100,Driver,22,37
+NSW,383,2016,Single,570,100,Driver,22,37
+NSW,383,2016,Single,570,50,Motorcycle rider,22,37
+NSW,383,2016,Single,570,100,Driver,22,37
+NSW,383,2016,Multiple,556,110,Motorcycle rider,22,37
+NSW,383,2016,Single,570,100,Passenger,22,37
+NSW,383,2016,Multiple,556,80,Motorcycle rider,22,37
+NSW,383,2016,Multiple,556,50,Driver,22,37
+NSW,383,2016,Multiple,556,50,Motorcycle rider,22,37
+NSW,383,2016,Pedestrian,169,60,Pedestrian,22,37
+NSW,383,2016,Multiple,556,100,Driver,23,33
+NSW,383,2016,Single,570,110,Passenger,23,33
+NSW,383,2016,Single,570,100,Driver,23,33
+NSW,383,2016,Single,570,90,Driver,23,33
+NSW,383,2016,Single,570,80,Driver,23,33
+NSW,383,2016,Single,570,80,Passenger,23,33
+NSW,383,2016,Pedestrian,169,70,Pedestrian,23,33
+NSW,383,2016,Multiple,556,80,Driver,23,33
+NSW,383,2016,Single,570,80,Driver,24,28
+NSW,383,2016,Single,570,110,Driver,24,28
+NSW,383,2016,Single,570,80,Driver,24,28
+NSW,383,2016,Single,570,50,Driver,24,28
+NSW,383,2016,Single,570,100,Passenger,24,28
+NSW,383,2016,Multiple,556,80,Driver,25,35
+NSW,383,2016,Single,570,90,Driver,25,35
+NSW,383,2016,Single,570,90,Driver,25,35
+NSW,383,2016,Pedestrian,169,70,Pedestrian,25,35
+NSW,383,2016,Single,570,100,Driver,25,35
+NSW,383,2016,Multiple,556,110,Driver,26,36
+NSW,383,2016,Single,570,80,Driver,26,36
+NSW,383,2016,Single,570,100,Passenger,26,36
+NSW,383,2016,Pedestrian,169,60,Pedestrian,26,36
+NSW,383,2016,Multiple,556,100,Driver,26,36
+NSW,383,2016,Multiple,556,60,Motorcycle rider,26,36
+NSW,383,2016,Single,570,80,Driver,26,36
+NSW,383,2016,Multiple,556,100,Driver,27,23
+NSW,383,2016,Single,570,60,Driver,27,23
+NSW,383,2016,Single,570,100,Driver,27,23
+NSW,383,2016,Single,570,50,Driver,27,23
+NSW,383,2016,Single,570,110,Driver,27,23
+NSW,383,2016,Single,570,100,Passenger,27,23
+NSW,383,2016,Single,570,100,Driver,28,23
+NSW,383,2016,Single,570,100,Driver,28,23
+NSW,383,2016,Multiple,556,60,Motorcycle rider,28,23
+NSW,383,2016,Single,570,100,Driver,28,23
+NSW,383,2016,Pedestrian,169,60,Pedestrian,28,23
+NSW,383,2016,Multiple,556,100,Driver,28,23
+NSW,383,2016,Single,570,80,Motorcycle rider,29,18
+NSW,383,2016,Single,570,80,Driver,29,18
+NSW,383,2016,Multiple,556,50,Motorcycle rider,30,22
+NSW,383,2016,Single,570,100,Driver,30,22
+NSW,383,2016,Multiple,556,90,Driver,30,22
+NSW,383,2016,Multiple,556,110,Driver,30,22
+NSW,383,2016,Single,570,80,Driver,30,22
+NSW,383,2016,Single,570,50,Motorcycle pillion passenger,31,19
+NSW,383,2016,Multiple,556,100,Passenger,31,19
+NSW,383,2016,Single,570,100,Motorcycle rider,31,19
+NSW,383,2016,Multiple,556,100,Motorcycle rider,31,19
+NSW,383,2016,Multiple,556,100,Driver,32,23
+NSW,383,2016,Multiple,556,100,Driver,32,23
+NSW,383,2016,Pedestrian,169,100,Pedestrian,32,23
+NSW,383,2016,Multiple,556,100,Driver,32,23
+NSW,383,2016,Single,570,40,Driver,32,23
+NSW,383,2016,Single,570,100,Passenger,32,23
+NSW,383,2016,Pedestrian,169,50,Pedestrian,32,23
+NSW,383,2016,Pedestrian,169,60,Pedestrian,32,23
+NSW,383,2016,Pedestrian,169,60,Pedestrian,32,23
+NSW,383,2016,Multiple,556,60,Driver,32,23
+NSW,383,2016,Pedestrian,169,60,Pedestrian,33,17
+NSW,383,2016,Multiple,556,60,Driver,33,17
+NSW,383,2016,Single,570,80,Driver,33,17
+NSW,383,2016,Multiple,556,80,Motorcycle rider,33,17
+NSW,383,2016,Multiple,556,70,Bicyclist,33,17
+NSW,383,2016,Multiple,556,50,Driver,34,13
+NSW,383,2016,Single,570,80,Driver,35,12
+NSW,383,2016,Multiple,556,100,Driver,35,12
+NSW,383,2016,Single,570,100,Motorcycle rider,35,12
+NSW,383,2016,Multiple,556,80,Driver,36,29
+NSW,383,2016,Single,570,50,Passenger,36,29
+NSW,383,2016,Single,570,50,Passenger,36,29
+NSW,383,2016,Multiple,556,60,Motorcycle rider,36,29
+NSW,383,2016,Multiple,556,80,Motorcycle rider,36,29
+NSW,383,2016,Pedestrian,169,110,Pedestrian,36,29
+NSW,383,2016,Single,570,50,Driver,36,29
+NSW,383,2016,Multiple,556,40,Motorcycle rider,36,29
+NSW,383,2016,Single,570,100,Motorcycle rider,36,29
+NSW,383,2016,Multiple,556,100,Driver,36,29
+NSW,383,2016,Multiple,556,60,Motorcycle rider,36,29
+NSW,383,2016,Single,570,50,Driver,37,20
+NSW,383,2016,Single,570,100,Driver,37,20
+NSW,383,2016,Single,570,50,Passenger,37,20
+NSW,383,2016,Multiple,556,100,Driver,37,20
+NSW,383,2016,Multiple,556,110,Motorcycle rider,37,20
+NSW,383,2016,Multiple,556,80,Driver,37,20
+NSW,383,2016,Multiple,556,100,Driver,38,19
+NSW,383,2016,Multiple,556,50,Passenger,38,19
+NSW,383,2016,Single,570,80,Driver,38,19
+NSW,383,2016,Pedestrian,169,60,Pedestrian,39,16
+NSW,383,2016,Single,570,40,Driver,39,16
+NSW,383,2016,Single,570,80,Driver,39,16
+NSW,383,2016,Multiple,556,80,Driver,40,19
+NSW,383,2016,Pedestrian,169,50,Pedestrian,40,19
+NSW,383,2016,Pedestrian,169,50,Pedestrian,40,19
+NSW,383,2016,Single,570,110,Driver,40,19
+NSW,383,2016,Pedestrian,169,50,Pedestrian,41,20
+NSW,383,2016,Multiple,556,100,Driver,41,20
+NSW,383,2016,Single,570,60,Passenger,41,20
+NSW,383,2016,Single,570,90,Passenger,41,20
+NSW,383,2016,Multiple,556,100,Driver,41,20
+NSW,383,2016,Single,570,60,Motorcycle rider,42,14
+NSW,383,2016,Multiple,556,60,Motorcycle pillion passenger,43,25
+NSW,383,2016,Single,570,80,Driver,43,25
+NSW,383,2016,Pedestrian,169,50,Pedestrian,43,25
+NSW,383,2016,Single,570,100,Driver,43,25
+NSW,383,2016,Single,570,80,Motorcycle rider,43,25
+NSW,383,2016,Multiple,556,100,Motorcycle rider,43,25
+NSW,383,2016,Multiple,556,80,Motorcycle rider,43,25
+NSW,383,2016,Multiple,556,100,Motorcycle rider,44,26
+NSW,383,2016,Multiple,556,80,Motorcycle rider,44,26
+NSW,383,2016,Multiple,556,100,Driver,44,26
+NSW,383,2016,Single,570,100,Driver,44,26
+NSW,383,2016,Single,570,100,Driver,44,26
+NSW,383,2016,Multiple,556,100,Motorcycle rider,44,26
+NSW,383,2016,Multiple,556,100,Motorcycle rider,44,26
+NSW,383,2016,Multiple,556,100,Motorcycle rider,44,26
+NSW,383,2016,Single,570,70,Motorcycle rider,45,29
+NSW,383,2016,Single,570,110,Driver,45,29
+NSW,383,2016,Multiple,556,100,Driver,45,29
+NSW,383,2016,Pedestrian,169,90,Pedestrian,45,29
+NSW,383,2016,Single,570,80,Driver,45,29
+NSW,383,2016,Pedestrian,169,40,Pedestrian,45,29
+NSW,383,2016,Pedestrian,169,60,Pedestrian,46,27
+NSW,383,2016,Multiple,556,100,Driver,46,27
+NSW,383,2016,Pedestrian,169,60,Pedestrian,46,27
+NSW,383,2016,Multiple,556,80,Driver,46,27
+NSW,383,2016,Single,570,100,Motorcycle rider,46,27
+NSW,383,2016,Multiple,556,80,Motorcycle rider,46,27
+NSW,383,2016,Multiple,556,100,Motorcycle rider,46,27
+NSW,383,2016,Multiple,556,50,Motorcycle rider,46,27
+NSW,383,2016,Single,570,80,Driver,46,27
+NSW,383,2016,Multiple,556,80,Driver,46,27
+NSW,383,2016,Multiple,556,100,Driver,47,17
+NSW,383,2016,Single,570,60,Driver,47,17
+NSW,383,2016,Multiple,556,100,Driver,47,17
+NSW,383,2016,Multiple,556,100,Driver,47,17
+NSW,383,2016,Single,570,100,Driver,48,27
+NSW,383,2016,Single,570,100,Motorcycle rider,48,27
+NSW,383,2016,Multiple,556,80,Driver,48,27
+NSW,383,2016,Pedestrian,169,80,Pedestrian,48,27
+NSW,383,2016,Pedestrian,169,40,Pedestrian,48,27
+NSW,383,2016,Multiple,556,110,Driver,48,27
+NSW,383,2016,Pedestrian,169,110,Pedestrian,48,27
+NSW,383,2016,Single,570,100,Motorcycle rider,49,15
+NSW,383,2016,Single,570,100,Driver,49,15
+NSW,383,2016,Multiple,556,110,Driver,49,15
+NSW,383,2016,Single,570,100,Driver,49,15
+NSW,383,2016,Multiple,556,70,Motorcycle rider,49,15
+NSW,383,2016,Single,570,80,Driver,49,15
+NSW,383,2016,Multiple,556,80,Driver,49,15
+NSW,383,2016,Multiple,556,80,Driver,49,15
+NSW,383,2016,Pedestrian,169,60,Pedestrian,50,14
+NSW,383,2016,Multiple,556,50,Motorcycle rider,50,14
+NSW,383,2016,Single,570,110,Driver,50,14
+NSW,383,2016,Single,570,60,Motorcycle rider,50,14
+NSW,383,2016,Single,570,100,Motorcycle rider,51,10
+NSW,383,2016,Multiple,556,100,Motorcycle rider,51,10
+NSW,383,2016,Multiple,556,100,Motorcycle rider,51,10
+NSW,383,2016,Single,570,80,Driver,51,10
+NSW,383,2016,Multiple,556,100,Driver,52,12
+NSW,383,2016,Pedestrian,169,100,Pedestrian,52,12
+NSW,383,2016,Single,570,100,Driver,52,12
+NSW,383,2016,Single,570,60,Driver,53,20
+NSW,383,2016,Single,570,100,Driver,53,20
+NSW,383,2016,Single,570,80,Driver,53,20
+NSW,383,2016,Multiple,556,100,Passenger,53,20
+NSW,383,2016,Multiple,556,100,Driver,53,20
+NSW,383,2016,Multiple,556,100,Driver,53,20
+NSW,383,2016,Single,570,100,Passenger,53,20
+NSW,383,2016,Multiple,556,100,Driver,53,20
+NSW,383,2016,Multiple,556,80,Driver,54,11
+NSW,383,2016,Multiple,556,100,Driver,54,11
+NSW,383,2016,Single,570,100,Driver,54,11
+NSW,383,2016,Single,570,100,Driver,54,11
+NSW,383,2016,Pedestrian,169,60,Pedestrian,54,11
+NSW,383,2016,Multiple,556,90,Driver,55,9
+NSW,383,2016,Multiple,556,80,Motorcycle rider,55,9
+NSW,383,2016,Pedestrian,169,60,Pedestrian,56,9
+NSW,383,2016,Multiple,556,70,Motorcycle rider,56,9
+NSW,383,2016,Pedestrian,169,80,Pedestrian,56,9
+NSW,383,2016,Multiple,556,100,Driver,57,15
+NSW,383,2016,Multiple,556,50,Driver,57,15
+NSW,383,2016,Multiple,556,50,Driver,57,15
+NSW,383,2016,Multiple,556,60,Driver,58,17
+NSW,383,2016,Multiple,556,100,Driver,58,17
+NSW,383,2016,Multiple,556,80,Driver,58,17
+NSW,383,2016,Multiple,556,110,Motorcycle rider,58,17
+NSW,383,2016,Single,570,100,Driver,59,20
+NSW,383,2016,Multiple,556,60,Motorcycle rider,59,20
+NSW,383,2016,Multiple,556,60,Driver,59,20
+NSW,383,2016,Pedestrian,169,50,Pedestrian,59,20
+NSW,383,2016,Single,570,80,Driver,59,20
+NSW,383,2016,Multiple,556,80,Motorcycle rider,59,20
+NSW,383,2016,Single,570,50,Driver,59,20
+NSW,383,2016,Multiple,556,100,Bicyclist,59,20
+NSW,383,2016,Single,570,80,Motorcycle rider,60,15
+NSW,383,2016,Multiple,556,100,Motorcycle rider,60,15
+NSW,383,2016,Pedestrian,169,50,Pedestrian,60,15
+NSW,383,2016,Multiple,556,90,Motorcycle rider,60,15
+NSW,383,2016,Pedestrian,169,60,Pedestrian,60,15
+NSW,383,2016,Pedestrian,169,60,Pedestrian,60,15
+NSW,383,2016,Multiple,556,100,Motorcycle rider,61,18
+NSW,383,2016,Multiple,556,50,Motorcycle rider,61,18
+NSW,383,2016,Multiple,556,110,Driver,61,18
+NSW,383,2016,Pedestrian,169,60,Pedestrian,62,12
+NSW,383,2016,Multiple,556,50,Driver,62,12
+NSW,383,2016,Multiple,556,80,Driver,62,12
+NSW,383,2016,Multiple,556,60,Driver,62,12
+NSW,383,2016,Pedestrian,169,40,Pedestrian,63,9
+NSW,383,2016,Multiple,556,50,Driver,63,9
+NSW,383,2016,Pedestrian,169,50,Pedestrian,63,9
+NSW,383,2016,Multiple,556,100,Passenger,65,10
+NSW,383,2016,Single,570,110,Motorcycle rider,65,10
+NSW,383,2016,Pedestrian,169,60,Pedestrian,65,10
+NSW,383,2016,Multiple,556,70,Driver,65,10
+NSW,383,2016,Single,570,80,Motorcycle rider,66,12
+NSW,383,2016,Multiple,556,60,Bicyclist,66,12
+NSW,383,2016,Single,570,100,Driver,66,12
+NSW,383,2016,Multiple,556,80,Motorcycle rider,66,12
+NSW,383,2016,Pedestrian,169,50,Pedestrian,66,12
+NSW,383,2016,Single,570,80,Driver,67,10
+NSW,383,2016,Pedestrian,169,50,Pedestrian,67,10
+NSW,383,2016,Multiple,556,80,Passenger,67,10
+NSW,383,2016,Single,570,100,Motorcycle rider,67,10
+NSW,383,2016,Single,570,70,Driver,67,10
+NSW,383,2016,Single,570,80,Driver,67,10
+NSW,383,2016,Multiple,556,100,Driver,67,10
+NSW,383,2016,Single,570,100,Passenger,68,8
+NSW,383,2016,Multiple,556,50,Driver,68,8
+NSW,383,2016,Multiple,556,100,Driver,68,8
+NSW,383,2016,Multiple,556,100,Driver,69,14
+NSW,383,2016,Single,570,80,Driver,69,14
+NSW,383,2016,Multiple,556,90,Driver,69,14
+NSW,383,2016,Pedestrian,169,50,Pedestrian,69,14
+NSW,383,2016,Multiple,556,80,Driver,69,14
+NSW,383,2016,Multiple,556,100,Driver,69,14
+NSW,383,2016,Multiple,556,100,Driver,71,11
+NSW,383,2016,Pedestrian,169,50,Pedestrian,71,11
+NSW,383,2016,Single,570,110,Driver,71,11
+NSW,383,2016,Multiple,556,50,Driver,72,10
+NSW,383,2016,Single,570,100,Passenger,72,10
+NSW,383,2016,Multiple,556,100,Driver,72,10
+NSW,383,2016,Multiple,556,100,Driver,72,10
+NSW,383,2016,Multiple,556,80,Driver,72,10
+NSW,383,2016,Single,570,100,Driver,73,10
+NSW,383,2016,Single,570,50,Bicyclist,73,10
+NSW,383,2016,Pedestrian,169,60,Pedestrian,73,10
+NSW,383,2016,Multiple,556,60,Passenger,73,10
+NSW,383,2016,Pedestrian,169,50,Pedestrian,73,10
+NSW,383,2016,Multiple,556,100,Passenger,74,10
+NSW,383,2016,Pedestrian,169,50,Pedestrian,74,10
+NSW,383,2016,Multiple,556,100,Driver,75,12
+NSW,383,2016,Pedestrian,169,80,Pedestrian,75,12
+NSW,383,2016,Single,570,110,Driver,75,12
+NSW,383,2016,Multiple,556,100,Passenger,75,12
+NSW,383,2016,Multiple,556,80,Driver,75,12
+NSW,383,2016,Single,570,60,Driver,76,17
+NSW,383,2016,Single,570,70,Driver,76,17
+NSW,383,2016,Multiple,556,100,Driver,76,17
+NSW,383,2016,Single,570,50,Driver,76,17
+NSW,383,2016,Multiple,556,100,Driver,76,17
+NSW,383,2016,Single,570,100,Passenger,76,17
+NSW,383,2016,Multiple,556,90,Driver,76,17
+NSW,383,2016,Single,570,110,Passenger,76,17
+NSW,383,2016,Multiple,556,60,Driver,76,17
+NSW,383,2016,Single,570,100,Driver,76,17
+NSW,383,2016,Single,570,100,Driver,77,5
+NSW,383,2016,Single,570,100,Driver,78,8
+NSW,383,2016,Multiple,556,40,Bicyclist,79,10
+NSW,383,2016,Multiple,556,60,Driver,79,10
+NSW,383,2016,Pedestrian,169,50,Pedestrian,79,10
+NSW,383,2016,Pedestrian,169,60,Pedestrian,79,10
+NSW,383,2016,Multiple,556,110,Passenger,80,9
+NSW,383,2016,Pedestrian,169,40,Pedestrian,81,9
+NSW,383,2016,Pedestrian,169,70,Pedestrian,82,17
+NSW,383,2016,Single,570,80,Driver,82,17
+NSW,383,2016,Multiple,556,100,Driver,82,17
+NSW,383,2016,Single,570,80,Driver,82,17
+NSW,383,2016,Pedestrian,169,60,Pedestrian,82,17
+NSW,383,2016,Single,570,50,Passenger,82,17
+NSW,383,2016,Single,570,50,Driver,83,7
+NSW,383,2016,Single,570,50,Driver,84,7
+NSW,383,2016,Single,570,80,Passenger,84,7
+NSW,383,2016,Pedestrian,169,60,Pedestrian,85,10
+NSW,383,2016,Single,570,50,Driver,85,10
+NSW,383,2016,Single,570,100,Driver,85,10
+NSW,383,2016,Pedestrian,169,50,Pedestrian,86,6
+NSW,383,2016,Pedestrian,169,40,Pedestrian,86,6
+NSW,383,2016,Multiple,556,50,Driver,86,6
+NSW,383,2016,Pedestrian,169,50,Pedestrian,86,6
+NSW,383,2016,Single,570,100,Driver,87,9
+NSW,383,2016,Pedestrian,169,50,Pedestrian,87,9
+NSW,383,2016,Multiple,556,110,Passenger,87,9
+NSW,383,2016,Multiple,556,100,Passenger,88,10
+NSW,383,2016,Multiple,556,50,Driver,88,10
+NSW,383,2016,Multiple,556,80,Driver,89,6
+NSW,383,2016,Multiple,556,80,Driver,89,6
+NSW,383,2016,Pedestrian,169,50,Pedestrian,89,6
+NSW,383,2016,Pedestrian,169,60,Pedestrian,90,5
+NSW,383,2016,Single,570,110,Passenger,90,5
+NSW,383,2016,Multiple,556,60,Driver,91,3
+NSW,383,2016,Pedestrian,169,50,Pedestrian,92,4
+NSW,383,2016,Single,570,50,Passenger,93,4
+NSW,383,2016,Pedestrian,169,50,Pedestrian,96,3
+NSW,383,2016,Single,570,100,Driver,96,3
+NT,45,2016,Single,570,130,Passenger,1,6
+NT,45,2016,Single,570,110,Passenger,2,4
+NT,45,2016,Single,570,110,Passenger,2,4
+NT,45,2016,Single,570,110,Passenger,7,2
+NT,45,2016,Single,570,110,Motorcycle rider,18,30
+NT,45,2016,Single,570,130,Passenger,22,37
+NT,45,2016,Single,570,110,Driver,23,33
+NT,45,2016,Multiple,556,110,Passenger,24,28
+NT,45,2016,Single,570,110,Driver,24,28
+NT,45,2016,Single,570,100,Driver,25,35
+NT,45,2016,Multiple,556,100,Passenger,25,35
+NT,45,2016,Single,570,130,Driver,26,36
+NT,45,2016,Single,570,110,Driver,26,36
+NT,45,2016,Multiple,556,130,Motorcycle rider,27,23
+NT,45,2016,Single,570,130,Driver,27,23
+NT,45,2016,Single,570,110,Passenger,27,23
+NT,45,2016,Single,570,80,Motorcycle rider,29,18
+NT,45,2016,Single,570,110,Driver,30,22
+NT,45,2016,Multiple,556,100,Passenger,31,19
+NT,45,2016,Single,570,110,Passenger,32,23
+NT,45,2016,Pedestrian,169,100,Pedestrian,33,17
+NT,45,2016,Multiple,556,60,Driver,34,13
+NT,45,2016,Multiple,556,60,Passenger,34,13
+NT,45,2016,Pedestrian,169,100,Pedestrian,35,12
+NT,45,2016,Single,570,130,Passenger,36,29
+NT,45,2016,Single,570,130,Driver,37,20
+NT,45,2016,Pedestrian,169,80,Pedestrian,42,14
+NT,45,2016,Single,570,60,Motorcycle rider,43,25
+NT,45,2016,Single,570,110,Passenger,44,26
+NT,45,2016,Single,570,110,Driver,45,29
+NT,45,2016,Single,570,110,Driver,45,29
+NT,45,2016,Pedestrian,169,10,Pedestrian,46,27
+NT,45,2016,Single,570,130,Passenger,46,27
+NT,45,2016,Pedestrian,169,60,Pedestrian,46,27
+NT,45,2016,Single,570,130,Driver,47,17
+NT,45,2016,Single,570,40,Driver,48,27
+NT,45,2016,Pedestrian,169,70,Pedestrian,48,27
+NT,45,2016,Single,570,100,Driver,49,15
+NT,45,2016,Single,570,50,Driver,55,9
+NT,45,2016,Multiple,556,130,Driver,55,9
+NT,45,2016,Single,570,130,Passenger,62,12
+NT,45,2016,Single,570,110,Driver,65,10
+NT,45,2016,Multiple,556,80,Driver,68,8
+NT,45,2016,Multiple,556, ,Passenger,74,10
+NT,45,2016,Multiple,556, ,Driver,76,17
+QLD,251,2016,Multiple,556,80,Passenger,0,4
+QLD,251,2016,Pedestrian,169,50,Pedestrian,0,4
+QLD,251,2016,Pedestrian,169,50,Pedestrian,1,6
+QLD,251,2016,Multiple,556,80,Passenger,4,3
+QLD,251,2016,Pedestrian,169,50,Pedestrian,9,1
+QLD,251,2016,Multiple,556,100,Motorcycle rider,14,6
+QLD,251,2016,Single,570,100,Passenger,14,6
+QLD,251,2016,Single,570,100,Passenger,16,10
+QLD,251,2016,Single,570,100,Driver,17,27
+QLD,251,2016,Single,570,70,Passenger,17,27
+QLD,251,2016,Multiple,556,100,Driver,17,27
+QLD,251,2016,Single,570,100,Passenger,18,30
+QLD,251,2016,Multiple,556,100,Passenger,18,30
+QLD,251,2016,Single,570,70,Motorcycle rider,18,30
+QLD,251,2016,Single,570,100,Passenger,19,24
+QLD,251,2016,Single,570,100,Driver,19,24
+QLD,251,2016,Single,570,100,Driver,19,24
+QLD,251,2016,Pedestrian,169,100,Pedestrian,19,24
+QLD,251,2016,Multiple,556,100,Motorcycle rider,19,24
+QLD,251,2016,Single,570,60,Passenger,20,26
+QLD,251,2016,Single,570,80,Driver,20,26
+QLD,251,2016,Single,570,100,Driver,20,26
+QLD,251,2016,Single,570,60,Driver,21,25
+QLD,251,2016,Single,570,70,Driver,21,25
+QLD,251,2016,Single,570,60,Passenger,21,25
+QLD,251,2016,Single,570,100,Driver,21,25
+QLD,251,2016,Single,570,60,Driver,21,25
+QLD,251,2016,Single,570,110,Passenger,21,25
+QLD,251,2016,Single,570,60,Driver,21,25
+QLD,251,2016,Single,570,60,Motorcycle rider,21,25
+QLD,251,2016,Single,570,70,Passenger,22,37
+QLD,251,2016,Multiple,556,70,Passenger,22,37
+QLD,251,2016,Pedestrian,169,60,Pedestrian,22,37
+QLD,251,2016,Multiple,556,100,Driver,22,37
+QLD,251,2016,Single,570,100,Driver,22,37
+QLD,251,2016,Single,570,100,Driver,22,37
+QLD,251,2016,Pedestrian,169,100,Pedestrian,23,33
+QLD,251,2016,Multiple,556,100,Driver,23,33
+QLD,251,2016,Single,570,60,Motorcycle rider,23,33
+QLD,251,2016,Single,570,100,Driver,23,33
+QLD,251,2016,Multiple,556,80,Driver,23,33
+QLD,251,2016,Multiple,556,80,Driver,23,33
+QLD,251,2016,Multiple,556,60,Motorcycle rider,23,33
+QLD,251,2016,Single,570,60,Driver,23,33
+QLD,251,2016,Pedestrian,169,100,Pedestrian,23,33
+QLD,251,2016,Single,570,60,Motorcycle rider,23,33
+QLD,251,2016,Pedestrian,169,70,Pedestrian,23,33
+QLD,251,2016,Single,570,60,Driver,23,33
+QLD,251,2016,Multiple,556,60,Motorcycle rider,24,28
+QLD,251,2016,Single,570,60,Passenger,24,28
+QLD,251,2016,Pedestrian,169,50,Pedestrian,24,28
+QLD,251,2016,Pedestrian,169,50,Pedestrian,24,28
+QLD,251,2016,Single,570,100,Passenger,24,28
+QLD,251,2016,Single,570,80,Motorcycle rider,25,35
+QLD,251,2016,Pedestrian,169,70,Pedestrian,25,35
+QLD,251,2016,Multiple,556,100,Passenger,25,35
+QLD,251,2016,Multiple,556,60,Motorcycle rider,25,35
+QLD,251,2016,Multiple,556,100,Driver,25,35
+QLD,251,2016,Multiple,556,100,Passenger,25,35
+QLD,251,2016,Single,570,100,Passenger,25,35
+QLD,251,2016,Single,570,100,Driver,26,36
+QLD,251,2016,Multiple,556,100,Driver,26,36
+QLD,251,2016,Pedestrian,169,80,Pedestrian,26,36
+QLD,251,2016,Single,570,100,Driver,26,36
+QLD,251,2016,Pedestrian,169,80,Pedestrian,26,36
+QLD,251,2016,Single,570,100,Driver,26,36
+QLD,251,2016,Multiple,556,60,Driver,26,36
+QLD,251,2016,Single,570,80,Driver,26,36
+QLD,251,2016,Single,570,60,Driver,26,36
+QLD,251,2016,Multiple,556,60,Motorcycle rider,26,36
+QLD,251,2016,Multiple,556,110,Driver,27,23
+QLD,251,2016,Multiple,556,60,Passenger,27,23
+QLD,251,2016,Multiple,556,100,Passenger,27,23
+QLD,251,2016,Single,570,80,Driver,28,23
+QLD,251,2016,Single,570,60,Passenger,29,18
+QLD,251,2016,Multiple,556,100,Driver,29,18
+QLD,251,2016,Multiple,556,70,Motorcycle rider,29,18
+QLD,251,2016,Single,570,70,Driver,29,18
+QLD,251,2016,Single,570,100,Driver,29,18
+QLD,251,2016,Multiple,556,80,Driver,29,18
+QLD,251,2016,Multiple,556,100,Motorcycle rider,30,22
+QLD,251,2016,Multiple,556,100,Driver,30,22
+QLD,251,2016,Multiple,556,80,Motorcycle rider,30,22
+QLD,251,2016,Multiple,556,80,Motorcycle rider,30,22
+QLD,251,2016,Pedestrian,169,50,Pedestrian,31,19
+QLD,251,2016,Single,570,60,Driver,31,19
+QLD,251,2016,Single,570,100,Motorcycle rider,31,19
+QLD,251,2016,Pedestrian,169,60,Pedestrian,31,19
+QLD,251,2016,Multiple,556,60,Driver,31,19
+QLD,251,2016,Multiple,556,80,Driver,31,19
+QLD,251,2016,Multiple,556,100,Driver,32,23
+QLD,251,2016,Single,570,60,Motorcycle rider,33,17
+QLD,251,2016,Single,570,80,Motorcycle rider,33,17
+QLD,251,2016,Single,570,100,Passenger,33,17
+QLD,251,2016,Single,570,40,Driver,34,13
+QLD,251,2016,Pedestrian,169,60,Pedestrian,34,13
+QLD,251,2016,Single,570,100,Driver,34,13
+QLD,251,2016,Single,570,100,Driver,35,12
+QLD,251,2016,Single,570,100,Driver,35,12
+QLD,251,2016,Single,570,100,Motorcycle rider,35,12
+QLD,251,2016,Single,570,70,Driver,36,29
+QLD,251,2016,Single,570,100,Driver,36,29
+QLD,251,2016,Single,570,100,Driver,36,29
+QLD,251,2016,Multiple,556,100,Driver,37,20
+QLD,251,2016,Single,570,100,Driver,37,20
+QLD,251,2016,Single,570,100,Passenger,37,20
+QLD,251,2016,Multiple,556,80,Motorcycle rider,37,20
+QLD,251,2016,Pedestrian,169,70,Pedestrian,37,20
+QLD,251,2016,Pedestrian,169,60,Pedestrian,37,20
+QLD,251,2016,Single,570,110,Driver,38,19
+QLD,251,2016,Single,570,100,Driver,38,19
+QLD,251,2016,Pedestrian,169,100,Pedestrian,38,19
+QLD,251,2016,Single,570,100,Driver,39,16
+QLD,251,2016,Multiple,556,80,Driver,39,16
+QLD,251,2016,Multiple,556,70,Motorcycle rider,40,19
+QLD,251,2016,Multiple,556,80,Motorcycle rider,40,19
+QLD,251,2016,Single,570,60,Motorcycle rider,40,19
+QLD,251,2016,Single,570,100,Motorcycle rider,40,19
+QLD,251,2016,Multiple,556,70,Driver,40,19
+QLD,251,2016,Single,570,100,Driver,41,20
+QLD,251,2016,Single,570,60,Driver,41,20
+QLD,251,2016,Single,570,100,Driver,42,14
+QLD,251,2016,Multiple,556,100,Motorcycle rider,42,14
+QLD,251,2016,Multiple,556,80,Bicyclist,42,14
+QLD,251,2016,Single,570,100,Motorcycle rider,42,14
+QLD,251,2016,Multiple,556,80,Motorcycle rider,42,14
+QLD,251,2016,Multiple,556,110,Motorcycle rider,43,25
+QLD,251,2016,Multiple,556,60,Motorcycle rider,43,25
+QLD,251,2016,Multiple,556,60,Motorcycle rider,43,25
+QLD,251,2016,Multiple,556,100,Motorcycle rider,43,25
+QLD,251,2016,Single,570,100,Motorcycle rider,44,26
+QLD,251,2016,Multiple,556,80,Driver,44,26
+QLD,251,2016,Single,570,60,Motorcycle rider,44,26
+QLD,251,2016,Multiple,556,100,Driver,44,26
+QLD,251,2016,Pedestrian,169,60,Pedestrian,44,26
+QLD,251,2016,Single,570,60,Motorcycle rider,44,26
+QLD,251,2016,Single,570,60,Motorcycle rider,44,26
+QLD,251,2016,Single,570,70,Motorcycle rider,45,29
+QLD,251,2016,Multiple,556,80,Passenger,45,29
+QLD,251,2016,Multiple,556,60,Motorcycle rider,45,29
+QLD,251,2016,Multiple,556,100,Motorcycle rider,46,27
+QLD,251,2016,Single,570,50,Motorcycle rider,46,27
+QLD,251,2016,Single,570,50,Bicyclist,46,27
+QLD,251,2016,Single,570,100,Driver,46,27
+QLD,251,2016,Multiple,556,80,Motorcycle rider,46,27
+QLD,251,2016,Single,570,100,Driver,47,17
+QLD,251,2016,Pedestrian,169,60,Pedestrian,47,17
+QLD,251,2016,Single,570,100,Driver,48,27
+QLD,251,2016,Multiple,556,100,Driver,48,27
+QLD,251,2016,Multiple,556,80,Motorcycle rider,48,27
+QLD,251,2016,Single,570,100,Motorcycle rider,49,15
+QLD,251,2016,Multiple,556,80,Driver,49,15
+QLD,251,2016,Multiple,556,70,Motorcycle rider,49,15
+QLD,251,2016,Single,570,100,Driver,50,14
+QLD,251,2016,Pedestrian,169,60,Pedestrian,50,14
+QLD,251,2016,Single,570,100,Driver,50,14
+QLD,251,2016,Multiple,556,100,Bicyclist,50,14
+QLD,251,2016,Single,570,100,Driver,50,14
+QLD,251,2016,Single,570,80,Driver,52,12
+QLD,251,2016,Single,570,100,Motorcycle rider,52,12
+QLD,251,2016,Multiple,556,50,Motorcycle rider,52,12
+QLD,251,2016,Multiple,556,100,Driver,53,20
+QLD,251,2016,Pedestrian,169,50,Pedestrian,53,20
+QLD,251,2016,Single,570,60,Passenger,54,11
+QLD,251,2016,Multiple,556,60,Motorcycle rider,55,9
+QLD,251,2016,Single,570,100,Driver,55,9
+QLD,251,2016,Single,570,80,Motorcycle rider,55,9
+QLD,251,2016,Multiple,556,100,Driver,56,9
+QLD,251,2016,Pedestrian,169,60,Pedestrian,56,9
+QLD,251,2016,Multiple,556,60,Motorcycle rider,57,15
+QLD,251,2016,Multiple,556,100,Driver,57,15
+QLD,251,2016,Multiple,556,100,Passenger,57,15
+QLD,251,2016,Multiple,556,100,Driver,57,15
+QLD,251,2016,Multiple,556,100,Motorcycle rider,57,15
+QLD,251,2016,Single,570,100,Motorcycle rider,58,17
+QLD,251,2016,Multiple,556,100,Driver,58,17
+QLD,251,2016,Multiple,556,80,Motorcycle rider,58,17
+QLD,251,2016,Multiple,556,100,Driver,58,17
+QLD,251,2016,Multiple,556,100,Driver,58,17
+QLD,251,2016,Multiple,556,100,Driver,58,17
+QLD,251,2016,Multiple,556,100,Driver,58,17
+QLD,251,2016,Multiple,556,100,Passenger,59,20
+QLD,251,2016,Multiple,556,100,Passenger,59,20
+QLD,251,2016,Single,570,80,Passenger,59,20
+QLD,251,2016,Single,570,100,Motorcycle rider,59,20
+QLD,251,2016,Multiple,556,100,Motorcycle rider,60,15
+QLD,251,2016,Single,570,100,Motorcycle rider,60,15
+QLD,251,2016,Multiple,556,100,Driver,60,15
+QLD,251,2016,Multiple,556,60,Bicyclist,61,18
+QLD,251,2016,Multiple,556,100,Motorcycle rider,61,18
+QLD,251,2016,Multiple,556,60,Motorcycle rider,61,18
+QLD,251,2016,Single,570,100,Motorcycle rider,61,18
+QLD,251,2016,Single,570,100,Driver,62,12
+QLD,251,2016,Single,570,40,Bicyclist,62,12
+QLD,251,2016,Multiple,556,80,Driver,62,12
+QLD,251,2016,Multiple,556,100,Bicyclist,63,9
+QLD,251,2016,Single,570,100,Driver,64,4
+QLD,251,2016,Single,570,60,Driver,64,4
+QLD,251,2016,Single,570,80,Driver,65,10
+QLD,251,2016,Multiple,556,60,Motorcycle rider,66,12
+QLD,251,2016,Multiple,556,110,Driver,68,8
+QLD,251,2016,Single,570,80,Passenger,68,8
+QLD,251,2016,Multiple,556,100,Driver,68,8
+QLD,251,2016,Pedestrian,169,60,Pedestrian,69,14
+QLD,251,2016,Pedestrian,169,60,Pedestrian,70,8
+QLD,251,2016,Multiple,556,100,Driver,70,8
+QLD,251,2016,Multiple,556,100,Motorcycle rider,70,8
+QLD,251,2016,Multiple,556,100,Motorcycle rider,70,8
+QLD,251,2016,Multiple,556,100,Driver,71,11
+QLD,251,2016,Pedestrian,169,60,Pedestrian,71,11
+QLD,251,2016,Multiple,556,60,Driver,72,10
+QLD,251,2016,Multiple,556,100,Motorcycle rider,73,10
+QLD,251,2016,Multiple,556,60,Bicyclist,73,10
+QLD,251,2016,Single,570,100,Passenger,74,10
+QLD,251,2016,Single,570,100,Driver,76,17
+QLD,251,2016,Single,570,100,Driver,76,17
+QLD,251,2016,Pedestrian,169,60,Pedestrian,77,5
+QLD,251,2016,Single,570,100,Passenger,78,8
+QLD,251,2016,Pedestrian,169,60,Pedestrian,78,8
+QLD,251,2016,Single,570,60,Bicyclist,78,8
+QLD,251,2016,Multiple,556,100,Driver,78,8
+QLD,251,2016,Single,570,100,Driver,78,8
+QLD,251,2016,Multiple,556,110,Passenger,78,8
+QLD,251,2016,Multiple,556,110,Driver,79,10
+QLD,251,2016,Multiple,556,80,Passenger,79,10
+QLD,251,2016,Pedestrian,169,60,Pedestrian,79,10
+QLD,251,2016,Multiple,556,80,Driver,80,9
+QLD,251,2016,Single,570,100,Driver,80,9
+QLD,251,2016,Single,570,100,Driver,82,17
+QLD,251,2016,Multiple,556,100,Driver,82,17
+QLD,251,2016,Single,570,60,Motorcycle rider,82,17
+QLD,251,2016,Pedestrian,169,70,Pedestrian,82,17
+QLD,251,2016,Pedestrian,169,50,Pedestrian,82,17
+QLD,251,2016,Pedestrian,169,60,Pedestrian,83,7
+QLD,251,2016,Single,570,70,Driver,83,7
+QLD,251,2016,Multiple,556,80,Passenger,84,7
+QLD,251,2016,Pedestrian,169,60,Pedestrian,84,7
+QLD,251,2016,Pedestrian,169,50,Pedestrian,85,10
+QLD,251,2016,Single,570,80,Driver,85,10
+QLD,251,2016,Multiple,556,80,Passenger,86,6
+QLD,251,2016,Multiple,556,60,Driver,88,10
+QLD,251,2016,Multiple,556,70,Driver,88,10
+QLD,251,2016,Multiple,556,110,Driver,88,10
+QLD,251,2016,Multiple,556,100,Passenger,89,6
+QLD,251,2016,Single,570,50,Driver,91,3
+QLD,251,2016,Multiple,556,100,Passenger,91,3
+QLD,251,2016,Single,570,100,Driver,92,4
+QLD,251,2016,Pedestrian,169,50,Pedestrian,92,4
+QLD,251,2016,Single,570,80,Driver,94,1
+QLD,251,2016,Multiple,556,100,Driver,96,3
+QLD,251,2016,Pedestrian,169,60,Pedestrian,97,1
+SA,86,2016,Multiple,556,110,Passenger,5,3
+SA,86,2016,Pedestrian,169,100,Pedestrian,7,2
+SA,86,2016,Multiple,556,100,Passenger,8,2
+SA,86,2016,Multiple,556,110,Passenger,10,4
+SA,86,2016,Single,570,110,Passenger,12,3
+SA,86,2016,Single,570,50,Motorcycle rider,17,27
+SA,86,2016,Single,570,80,Passenger,17,27
+SA,86,2016,Single,570,110,Driver,18,30
+SA,86,2016,Multiple,556,80,Driver,20,26
+SA,86,2016,Pedestrian,169,80,Pedestrian,20,26
+SA,86,2016,Single,570,100,Driver,22,37
+SA,86,2016,Single,570,110,Driver,22,37
+SA,86,2016,Single,570,100,Driver,22,37
+SA,86,2016,Single,570,80,Driver,22,37
+SA,86,2016,Single,570,50,Motorcycle rider,22,37
+SA,86,2016,Single,570,80,Passenger,22,37
+SA,86,2016,Multiple,556,100,Driver,23,33
+SA,86,2016,Single,570,80,Passenger,23,33
+SA,86,2016,Single,570,100,Driver,23,33
+SA,86,2016,Single,570,100,Driver,24,28
+SA,86,2016,Multiple,556,90,Driver,25,35
+SA,86,2016,Multiple,556,110,Passenger,26,36
+SA,86,2016,Multiple,556,100,Passenger,26,36
+SA,86,2016,Multiple,556,80,Passenger,26,36
+SA,86,2016,Multiple,556,100,Driver,27,23
+SA,86,2016,Pedestrian,169,60,Pedestrian,27,23
+SA,86,2016,Single,570,110,Driver,28,23
+SA,86,2016,Single,570,80,Driver,28,23
+SA,86,2016,Single,570,100,Passenger,29,18
+SA,86,2016,Multiple,556,60,Motorcycle rider,30,22
+SA,86,2016,Single,570,50,Motorcycle rider,31,19
+SA,86,2016,Single,570,80,Motorcycle rider,31,19
+SA,86,2016,Multiple,556,80,Driver,33,17
+SA,86,2016,Multiple,556,80,Driver,34,13
+SA,86,2016,Single,570,110,Driver,35,12
+SA,86,2016,Multiple,556,80,Driver,38,19
+SA,86,2016,Multiple,556,100,Driver,38,19
+SA,86,2016,Single,570,60,Driver,38,19
+SA,86,2016,Single,570,50,Driver,39,16
+SA,86,2016,Single,570,110,Driver,39,16
+SA,86,2016,Single,570,110,Driver,40,19
+SA,86,2016,Multiple,556,90,Passenger,41,20
+SA,86,2016,Single,570,80,Driver,41,20
+SA,86,2016,Single,570,110,Passenger,43,25
+SA,86,2016,Multiple,556,110,Driver,43,25
+SA,86,2016,Multiple,556,50,Motorcycle rider,44,26
+SA,86,2016,Pedestrian,169,80,Pedestrian,45,29
+SA,86,2016,Single,570,50,Bicyclist,46,27
+SA,86,2016,Single,570,110,Driver,47,17
+SA,86,2016,Single,570,110,Driver,47,17
+SA,86,2016,Multiple,556,100,Passenger,47,17
+SA,86,2016,Single,570,110,Passenger,48,27
+SA,86,2016,Multiple,556,40,Driver,48,27
+SA,86,2016,Single,570,100,Motorcycle rider,48,27
+SA,86,2016,Single,570,100,Driver,49,15
+SA,86,2016,Multiple,556,60,Driver,52,12
+SA,86,2016,Pedestrian,169,50,Pedestrian,54,11
+SA,86,2016,Multiple,556,110,Motorcycle rider,59,20
+SA,86,2016,Multiple,556,80,Driver,61,18
+SA,86,2016,Multiple,556,100,Bicyclist,61,18
+SA,86,2016,Pedestrian,169,60,Pedestrian,61,18
+SA,86,2016,Single,570,110,Passenger,66,12
+SA,86,2016,Multiple,556,110,Driver,69,14
+SA,86,2016,Multiple,556,110,Passenger,70,8
+SA,86,2016,Single,570,60,Other/unknown,71,11
+SA,86,2016,Multiple,556,110,Driver,72,10
+SA,86,2016,Pedestrian,169,50,Pedestrian,72,10
+SA,86,2016,Multiple,556,100,Driver,72,10
+SA,86,2016,Multiple,556,60,Bicyclist,73,10
+SA,86,2016,Multiple,556,60,Driver,74,10
+SA,86,2016,Multiple,556,80,Passenger,75,12
+SA,86,2016,Multiple,556,80,Driver,76,17
+SA,86,2016,Single,570,110,Driver,76,17
+SA,86,2016,Single,570,100,Driver,80,9
+SA,86,2016,Single,570,80,Driver,82,17
+SA,86,2016,Multiple,556,50,Passenger,82,17
+SA,86,2016,Multiple,556,80,Passenger,82,17
+SA,86,2016,Multiple,556,70,Passenger,83,7
+SA,86,2016,Multiple,556,50,Driver,87,9
+SA,86,2016,Multiple,556,110,Driver,87,9
+SA,86,2016,Single,570,50,Bicyclist,88,10
+SA,86,2016,Pedestrian,169,60,Pedestrian,89,6
+SA,86,2016,Multiple,556,80,Passenger,90,5
+SA,86,2016,Multiple,556,100,Driver,90,5
+SA,86,2016,Single,570,50,Passenger,92,4
+SA,86,2016,Single,570,50,Bicyclist,93,4
+TAS,37,2016,Multiple,556,100,Passenger,0,4
+TAS,37,2016,Single,570,60,Passenger,2,4
+TAS,37,2016,Multiple,556,100,Passenger,16,10
+TAS,37,2016,Single,570,80,Motorcycle rider,16,10
+TAS,37,2016,Multiple,556,80,Motorcycle rider,17,27
+TAS,37,2016,Single,570,100,Motorcycle rider,17,27
+TAS,37,2016,Single,570,60,Driver,18,30
+TAS,37,2016,Multiple,556,100,Driver,20,26
+TAS,37,2016,Multiple,556,50,Driver,24,28
+TAS,37,2016,Single,570,100,Motorcycle rider,24,28
+TAS,37,2016,Pedestrian,169,80,Pedestrian,25,35
+TAS,37,2016,Single,570,100,Passenger,26,36
+TAS,37,2016,Multiple,556,80,Driver,29,18
+TAS,37,2016,Single,570,110,Driver,30,22
+TAS,37,2016,Multiple,556,80,Motorcycle pillion passenger,31,19
+TAS,37,2016,Pedestrian,169,100,Pedestrian,32,23
+TAS,37,2016,Multiple,556,100,Driver,36,29
+TAS,37,2016,Single,570,100,Driver,36,29
+TAS,37,2016,Single,570,100,Driver,39,16
+TAS,37,2016,Pedestrian,169,100,Pedestrian,43,25
+TAS,37,2016,Single,570,80,Driver,46,27
+TAS,37,2016,Pedestrian,169,50,Pedestrian,46,27
+TAS,37,2016,Multiple,556,40,Motorcycle rider,48,27
+TAS,37,2016,Multiple,556,100,Motorcycle rider,51,10
+TAS,37,2016,Single,570,80,Driver,51,10
+TAS,37,2016,Multiple,556,110,Driver,53,20
+TAS,37,2016,Single,570,110,Motorcycle rider,57,15
+TAS,37,2016,Multiple,556,90,Motorcycle rider,59,20
+TAS,37,2016,Multiple,556,100,Passenger,60,15
+TAS,37,2016,Single,570,80,Driver,60,15
+TAS,37,2016,Multiple,556,90,Driver,71,11
+TAS,37,2016,Multiple,556,100,Driver,74,10
+TAS,37,2016,Multiple,556,50,Driver,77,5
+TAS,37,2016,Multiple,556,60,Driver,79,10
+TAS,37,2016,Single,570,100,Motorcycle rider,79,10
+TAS,37,2016,Multiple,556,50,Driver,84,7
+TAS,37,2016,Multiple,556,100,Passenger,84,7
+VIC,291,2016,Multiple,556,80,Passenger,0,4
+VIC,291,2016,Multiple,556,60,Passenger,1,6
+VIC,291,2016,Single,570,100,Passenger,4,3
+VIC,291,2016,Multiple,556,60,Passenger,8,2
+VIC,291,2016,Single,570,100,Passenger,15,8
+VIC,291,2016,Single,570,100,Passenger,15,8
+VIC,291,2016,Single,570,40,Driver,15,8
+VIC,291,2016,Single,570,80,Driver,16,10
+VIC,291,2016,Single,570,100,Passenger,17,27
+VIC,291,2016,Pedestrian,169,50,Pedestrian,17,27
+VIC,291,2016,Pedestrian,169,60,Pedestrian,17,27
+VIC,291,2016,Multiple,556,50,Passenger,17,27
+VIC,291,2016,Multiple,556,80,Passenger,17,27
+VIC,291,2016,Multiple,556,100,Passenger,18,30
+VIC,291,2016,Multiple,556,50,Motorcycle rider,18,30
+VIC,291,2016,Single,570,80,Driver,18,30
+VIC,291,2016,Single,570,60,Driver,18,30
+VIC,291,2016,Single,570,100,Driver,18,30
+VIC,291,2016,Single,570, ,Driver,18,30
+VIC,291,2016,Single,570,60,Motorcycle pillion passenger,18,30
+VIC,291,2016,Single,570,100,Driver,18,30
+VIC,291,2016,Single,570,100,Driver,18,30
+VIC,291,2016,Multiple,556,70,Driver,19,24
+VIC,291,2016,Multiple,556,100,Driver,19,24
+VIC,291,2016,Single,570,100,Driver,19,24
+VIC,291,2016,Multiple,556,50,Driver,19,24
+VIC,291,2016,Single,570,60,Driver,19,24
+VIC,291,2016,Single,570,100,Driver,20,26
+VIC,291,2016,Single,570,80,Driver,20,26
+VIC,291,2016,Single,570,60,Driver,20,26
+VIC,291,2016,Multiple,556,60,Motorcycle rider,21,25
+VIC,291,2016,Multiple,556,110,Driver,21,25
+VIC,291,2016,Multiple,556,110,Driver,21,25
+VIC,291,2016,Single,570,100,Driver,21,25
+VIC,291,2016,Single,570,80,Driver,21,25
+VIC,291,2016,Multiple,556,60,Motorcycle rider,22,37
+VIC,291,2016,Multiple,556,90,Driver,22,37
+VIC,291,2016,Pedestrian,169,100,Pedestrian,22,37
+VIC,291,2016,Single,570,60,Motorcycle rider,22,37
+VIC,291,2016,Single,570,100,Driver,22,37
+VIC,291,2016,Single,570,100,Driver,22,37
+VIC,291,2016,Single,570,90,Driver,23,33
+VIC,291,2016,Single,570,100,Driver,23,33
+VIC,291,2016,Multiple,556,100,Driver,23,33
+VIC,291,2016,Single,570,100,Driver,23,33
+VIC,291,2016,Single,570,110,Driver,24,28
+VIC,291,2016,Pedestrian,169,60,Pedestrian,24,28
+VIC,291,2016,Single,570,60,Driver,24,28
+VIC,291,2016,Multiple,556,100,Driver,24,28
+VIC,291,2016,Single,570,80,Motorcycle rider,25,35
+VIC,291,2016,Multiple,556,60,Bicyclist,25,35
+VIC,291,2016,Single,570,90,Driver,25,35
+VIC,291,2016,Multiple,556,60,Motorcycle rider,25,35
+VIC,291,2016,Single,570,80,Motorcycle rider,25,35
+VIC,291,2016,Multiple,556,80,Motorcycle rider,25,35
+VIC,291,2016,Multiple,556,100,Driver,25,35
+VIC,291,2016,Multiple,556,60,Motorcycle rider,25,35
+VIC,291,2016,Multiple,556,60,Motorcycle rider,25,35
+VIC,291,2016,Multiple,556,100,Driver,26,36
+VIC,291,2016,Single,570,70,Motorcycle rider,26,36
+VIC,291,2016,Multiple,556,60,Motorcycle rider,26,36
+VIC,291,2016,Multiple,556,60,Motorcycle rider,26,36
+VIC,291,2016,Multiple,556,100,Driver,26,36
+VIC,291,2016,Multiple,556,100,Driver,26,36
+VIC,291,2016,Single,570,60,Driver,26,36
+VIC,291,2016,Multiple,556,60,Motorcycle rider,27,23
+VIC,291,2016,Multiple,556,90,Driver,27,23
+VIC,291,2016,Single,570,80,Driver,27,23
+VIC,291,2016,Single,570,60,Bicyclist,27,23
+VIC,291,2016,Multiple,556,60,Driver,27,23
+VIC,291,2016,Multiple,556,80,Driver,27,23
+VIC,291,2016,Single,570,100,Passenger,28,23
+VIC,291,2016,Single,570,100,Driver,28,23
+VIC,291,2016,Multiple,556,60,Motorcycle rider,28,23
+VIC,291,2016,Single,570,100,Driver,28,23
+VIC,291,2016,Multiple,556,100,Driver,28,23
+VIC,291,2016,Multiple,556,100,Driver,28,23
+VIC,291,2016,Multiple,556,100,Driver,28,23
+VIC,291,2016,Multiple,556,70,Motorcycle rider,29,18
+VIC,291,2016,Multiple,556,80,Driver,29,18
+VIC,291,2016,Single,570,100,Driver,29,18
+VIC,291,2016,Single,570,100,Passenger,29,18
+VIC,291,2016,Multiple,556,100,Driver,30,22
+VIC,291,2016,Pedestrian,169,80,Pedestrian,30,22
+VIC,291,2016,Multiple,556,110,Driver,30,22
+VIC,291,2016,Single,570,100,Driver,30,22
+VIC,291,2016,Multiple,556,100,Passenger,31,19
+VIC,291,2016,Single,570,100,Driver,31,19
+VIC,291,2016,Multiple,556,60,Motorcycle rider,32,23
+VIC,291,2016,Multiple,556,100,Driver,32,23
+VIC,291,2016,Multiple,556,50,Motorcycle rider,32,23
+VIC,291,2016,Multiple,556,70,Driver,32,23
+VIC,291,2016,Single,570,60,Driver,32,23
+VIC,291,2016,Multiple,556,60,Motorcycle rider,32,23
+VIC,291,2016,Multiple,556,100,Motorcycle rider,32,23
+VIC,291,2016,Multiple,556,60,Driver,33,17
+VIC,291,2016,Pedestrian,169,100,Pedestrian,33,17
+VIC,291,2016,Multiple,556,60,Motorcycle rider,33,17
+VIC,291,2016,Multiple,556, ,Driver,33,17
+VIC,291,2016,Pedestrian,169,70,Pedestrian,33,17
+VIC,291,2016,Single,570,100,Driver,34,13
+VIC,291,2016,Multiple,556,100,Driver,35,12
+VIC,291,2016,Multiple,556,80,Motorcycle rider,36,29
+VIC,291,2016,Multiple,556,80,Motorcycle rider,36,29
+VIC,291,2016,Multiple,556,80,Motorcycle rider,36,29
+VIC,291,2016,Single,570,60,Driver,36,29
+VIC,291,2016,Single,570,80,Driver,36,29
+VIC,291,2016,Single,570,80,Driver,36,29
+VIC,291,2016,Single,570,100,Driver,36,29
+VIC,291,2016,Multiple,556,100,Driver,37,20
+VIC,291,2016,Multiple,556,70,Motorcycle rider,37,20
+VIC,291,2016,Multiple,556,60,Driver,37,20
+VIC,291,2016,Single,570,100,Motorcycle rider,38,19
+VIC,291,2016,Multiple,556,100,Passenger,38,19
+VIC,291,2016,Multiple,556,60,Driver,38,19
+VIC,291,2016,Single,570,100,Driver,38,19
+VIC,291,2016,Single,570,100,Driver,38,19
+VIC,291,2016,Multiple,556,60,Driver,38,19
+VIC,291,2016,Multiple,556,60,Motorcycle rider,39,16
+VIC,291,2016,Single,570,100,Driver,39,16
+VIC,291,2016,Multiple,556,80,Driver,39,16
+VIC,291,2016,Single,570,100,Driver,39,16
+VIC,291,2016,Multiple,556,60,Driver,40,19
+VIC,291,2016,Multiple,556,100,Motorcycle rider,40,19
+VIC,291,2016,Multiple,556,100,Motorcycle rider,41,20
+VIC,291,2016,Multiple,556,100,Driver,41,20
+VIC,291,2016,Multiple,556,100,Motorcycle rider,41,20
+VIC,291,2016,Single,570,80,Driver,41,20
+VIC,291,2016,Single,570,100,Passenger,41,20
+VIC,291,2016,Multiple,556,100,Driver,41,20
+VIC,291,2016,Multiple,556,100,Motorcycle rider,41,20
+VIC,291,2016,Multiple,556,50,Driver,41,20
+VIC,291,2016,Single,570,80,Driver,42,14
+VIC,291,2016,Multiple,556,50,Motorcycle rider,42,14
+VIC,291,2016,Multiple,556,50,Bicyclist,42,14
+VIC,291,2016,Single,570,100,Driver,42,14
+VIC,291,2016,Multiple,556,80,Motorcycle rider,43,25
+VIC,291,2016,Multiple,556,100,Driver,43,25
+VIC,291,2016,Pedestrian,169,70,Pedestrian,43,25
+VIC,291,2016,Multiple,556,100,Driver,43,25
+VIC,291,2016,Multiple,556,70,Motorcycle rider,43,25
+VIC,291,2016,Multiple,556,60,Motorcycle rider,43,25
+VIC,291,2016,Multiple,556,100,Motorcycle rider,44,26
+VIC,291,2016,Single,570,100,Driver,44,26
+VIC,291,2016,Single,570,50,Motorcycle rider,44,26
+VIC,291,2016,Single,570,110,Driver,44,26
+VIC,291,2016,Pedestrian,169,70,Pedestrian,44,26
+VIC,291,2016,Multiple,556,50,Motorcycle rider,44,26
+VIC,291,2016,Single,570,100,Driver,45,29
+VIC,291,2016,Multiple,556,70,Motorcycle rider,45,29
+VIC,291,2016,Single,570,60,Motorcycle rider,45,29
+VIC,291,2016,Single,570,100,Driver,45,29
+VIC,291,2016,Single,570,100,Passenger,45,29
+VIC,291,2016,Multiple,556,100,Passenger,45,29
+VIC,291,2016,Pedestrian,169,80,Pedestrian,45,29
+VIC,291,2016,Multiple,556,80,Driver,45,29
+VIC,291,2016,Pedestrian,169,80,Pedestrian,45,29
+VIC,291,2016,Single,570,50,Passenger,45,29
+VIC,291,2016,Single,570,70,Motorcycle rider,45,29
+VIC,291,2016,Single,570,50,Driver,46,27
+VIC,291,2016,Single,570,100,Driver,46,27
+VIC,291,2016,Single,570,100,Driver,46,27
+VIC,291,2016,Single,570,80,Motorcycle rider,47,17
+VIC,291,2016,Single,570,100,Driver,47,17
+VIC,291,2016,Multiple,556,70,Driver,47,17
+VIC,291,2016,Multiple,556,50,Bicyclist,47,17
+VIC,291,2016,Pedestrian,169,50,Pedestrian,48,27
+VIC,291,2016,Multiple,556,100,Driver,48,27
+VIC,291,2016,Pedestrian,169,60,Pedestrian,48,27
+VIC,291,2016,Single,570,100,Driver,48,27
+VIC,291,2016,Single,570,100,Driver,48,27
+VIC,291,2016,Multiple,556,100,Motorcycle rider,48,27
+VIC,291,2016,Single,570,100,Driver,48,27
+VIC,291,2016,Single,570,100,Driver,49,15
+VIC,291,2016,Multiple,556,100,Driver,49,15
+VIC,291,2016,Single,570,80,Driver,50,14
+VIC,291,2016,Multiple,556,100,Motorcycle rider,50,14
+VIC,291,2016,Multiple,556,100,Driver,50,14
+VIC,291,2016,Pedestrian,169,110,Pedestrian,50,14
+VIC,291,2016,Pedestrian,169,60,Pedestrian,51,10
+VIC,291,2016,Pedestrian,169,80,Pedestrian,51,10
+VIC,291,2016,Single,570,100,Passenger,51,10
+VIC,291,2016,Single,570,100,Driver,52,12
+VIC,291,2016,Single,570,100,Driver,52,12
+VIC,291,2016,Single,570,100,Driver,53,20
+VIC,291,2016,Multiple,556,70,Driver,53,20
+VIC,291,2016,Multiple,556,60,Driver,53,20
+VIC,291,2016,Pedestrian,169,100,Pedestrian,53,20
+VIC,291,2016,Single,570,100,Driver,54,11
+VIC,291,2016,Single,570,80,Motorcycle rider,54,11
+VIC,291,2016,Multiple,556,80,Driver,54,11
+VIC,291,2016,Multiple,556,100,Motorcycle rider,55,9
+VIC,291,2016,Multiple,556,50,Motorcycle rider,56,9
+VIC,291,2016,Multiple,556,100,Driver,56,9
+VIC,291,2016,Multiple,556,100,Driver,56,9
+VIC,291,2016,Single,570,100,Driver,56,9
+VIC,291,2016,Multiple,556,100,Passenger,57,15
+VIC,291,2016,Multiple,556,100,Driver,57,15
+VIC,291,2016,Multiple,556,80,Driver,57,15
+VIC,291,2016,Multiple,556,100,Passenger,57,15
+VIC,291,2016,Single,570,50,Motorcycle rider,58,17
+VIC,291,2016,Pedestrian,169,60,Pedestrian,58,17
+VIC,291,2016,Multiple,556,100,Driver,58,17
+VIC,291,2016,Single,570,50,Bicyclist,58,17
+VIC,291,2016,Pedestrian,169,60,Pedestrian,58,17
+VIC,291,2016,Pedestrian,169,60,Pedestrian,59,20
+VIC,291,2016,Pedestrian,169,60,Pedestrian,59,20
+VIC,291,2016,Multiple,556,100,Driver,59,20
+VIC,291,2016,Single,570,80,Driver,59,20
+VIC,291,2016,Pedestrian,169,60,Pedestrian,59,20
+VIC,291,2016,Multiple,556,100,Motorcycle rider,60,15
+VIC,291,2016,Multiple,556,100,Driver,60,15
+VIC,291,2016,Pedestrian,169,80,Pedestrian,60,15
+VIC,291,2016,Multiple,556,80,Motorcycle rider,61,18
+VIC,291,2016,Multiple,556,110,Driver,61,18
+VIC,291,2016,Pedestrian,169,50,Pedestrian,61,18
+VIC,291,2016,Multiple,556,80,Driver,61,18
+VIC,291,2016,Multiple,556,60,Driver,61,18
+VIC,291,2016,Multiple,556,80,Motorcycle rider,61,18
+VIC,291,2016,Single,570,100,Motorcycle rider,61,18
+VIC,291,2016,Multiple,556,100,Driver,62,12
+VIC,291,2016,Multiple,556,80,Passenger,62,12
+VIC,291,2016,Single,570,100,Passenger,62,12
+VIC,291,2016,Single,570,50,Driver,63,9
+VIC,291,2016,Multiple,556,100,Driver,63,9
+VIC,291,2016,Pedestrian,169,60,Pedestrian,63,9
+VIC,291,2016,Multiple,556,100,Driver,63,9
+VIC,291,2016,Multiple,556,100,Driver,64,4
+VIC,291,2016,Pedestrian,169,50,Pedestrian,65,10
+VIC,291,2016,Multiple,556,80,Motorcycle rider,65,10
+VIC,291,2016,Single,570,100,Driver,65,10
+VIC,291,2016,Single,570,100,Bicyclist,66,12
+VIC,291,2016,Single,570,100,Passenger,66,12
+VIC,291,2016,Pedestrian,169,70,Pedestrian,66,12
+VIC,291,2016,Multiple,556,100,Driver,67,10
+VIC,291,2016,Single,570,100,Passenger,67,10
+VIC,291,2016,Multiple,556,100,Passenger,68,8
+VIC,291,2016,Multiple,556,50,Bicyclist,69,14
+VIC,291,2016,Single,570,100,Driver,69,14
+VIC,291,2016,Multiple,556,80,Motorcycle rider,69,14
+VIC,291,2016,Single,570,100,Driver,69,14
+VIC,291,2016,Single,570,80,Driver,70,8
+VIC,291,2016,Pedestrian,169,60,Pedestrian,71,11
+VIC,291,2016,Multiple,556,60,Driver,71,11
+VIC,291,2016,Multiple,556,100,Driver,71,11
+VIC,291,2016,Pedestrian,169,60,Pedestrian,72,10
+VIC,291,2016,Single,570,50,Driver,73,10
+VIC,291,2016,Multiple,556,60,Passenger,73,10
+VIC,291,2016,Multiple,556,60,Bicyclist,74,10
+VIC,291,2016,Multiple,556,110,Passenger,74,10
+VIC,291,2016,Single,570,100,Driver,74,10
+VIC,291,2016,Pedestrian,169,70,Pedestrian,75,12
+VIC,291,2016,Single,570,100,Motorcycle rider,75,12
+VIC,291,2016,Single,570,60,Driver,75,12
+VIC,291,2016,Single,570,100,Passenger,75,12
+VIC,291,2016,Multiple,556,100,Driver,76,17
+VIC,291,2016,Single,570,110,Driver,77,5
+VIC,291,2016,Multiple,556,80,Driver,77,5
+VIC,291,2016,Single,570,100,Driver,79,10
+VIC,291,2016,Multiple,556,100,Passenger,80,9
+VIC,291,2016,Multiple,556,60,Driver,80,9
+VIC,291,2016,Single,570,70,Driver,80,9
+VIC,291,2016,Multiple,556,80,Passenger,81,9
+VIC,291,2016,Single,570,100,Driver,81,9
+VIC,291,2016,Pedestrian,169,50,Pedestrian,81,9
+VIC,291,2016,Multiple,556,110,Driver,81,9
+VIC,291,2016,Multiple,556,80,Driver,81,9
+VIC,291,2016,Pedestrian,169,60,Pedestrian,81,9
+VIC,291,2016,Multiple,556,60,Passenger,82,17
+VIC,291,2016,Multiple,556,110,Passenger,82,17
+VIC,291,2016,Multiple,556,60,Driver,82,17
+VIC,291,2016,Pedestrian,169,60,Pedestrian,83,7
+VIC,291,2016,Multiple,556,70,Passenger,83,7
+VIC,291,2016,Single,570,110,Driver,83,7
+VIC,291,2016,Multiple,556,60,Driver,85,10
+VIC,291,2016,Pedestrian,169,60,Pedestrian,85,10
+VIC,291,2016,Pedestrian,169,70,Pedestrian,85,10
+VIC,291,2016,Multiple,556, ,Driver,85,10
+VIC,291,2016,Single,570,60,Passenger,85,10
+VIC,291,2016,Multiple,556,80,Driver,86,6
+VIC,291,2016,Multiple,556,60,Driver,87,9
+VIC,291,2016,Multiple,556,60,Driver,87,9
+VIC,291,2016,Single,570,100,Driver,87,9
+VIC,291,2016,Pedestrian,169,60,Pedestrian,87,9
+VIC,291,2016,Single,570,100,Driver,88,10
+VIC,291,2016,Pedestrian,169,60,Pedestrian,88,10
+VIC,291,2016,Single,570,60,Driver,88,10
+VIC,291,2016,Pedestrian,169,777,Pedestrian,89,6
+VIC,291,2016,Pedestrian,169,60,Pedestrian,90,5
+VIC,291,2016,Pedestrian,169,888,Pedestrian,93,4
+VIC,291,2016,Multiple,556,70,Passenger,93,4
+WA,193,2016,Multiple,556,50,Pedestrian,1,6
+WA,193,2016,Single,570,110,Passenger,4,3
+WA,193,2016,Multiple,556,60,Passenger,5,3
+WA,193,2016,Multiple,556,80,Other/unknown,5,3
+WA,193,2016,Single,570,110,Passenger,10,4
+WA,193,2016,Single,570,110,Motorcycle pillion passenger,10,4
+WA,193,2016,Multiple,556,50,Bicyclist,12,3
+WA,193,2016,Single,570,110,Passenger,14,6
+WA,193,2016,Single,570,110,Passenger,15,8
+WA,193,2016,Multiple,556,50,Motorcycle rider,15,8
+WA,193,2016,Single,570,110,Driver,16,10
+WA,193,2016,Single,570,110,Passenger,16,10
+WA,193,2016,Single,570,110,Motorcycle pillion passenger,16,10
+WA,193,2016,Single,570,100,Driver,17,27
+WA,193,2016,Multiple,556,50,Motorcycle rider,17,27
+WA,193,2016,Single,570,110,Passenger,17,27
+WA,193,2016,Single,570,110,Passenger,18,30
+WA,193,2016,Single,570,100,Driver,18,30
+WA,193,2016,Single,570,110,Driver,19,24
+WA,193,2016,Multiple,556,50,Driver,19,24
+WA,193,2016,Multiple,556,50,Passenger,19,24
+WA,193,2016,Single,570,110,Driver,19,24
+WA,193,2016,Multiple,556,80,Motorcycle rider,19,24
+WA,193,2016,Multiple,556,70,Motorcycle rider,19,24
+WA,193,2016,Multiple,556,100,Driver,19,24
+WA,193,2016,Multiple,556,110,Passenger,19,24
+WA,193,2016,Multiple,556,110,Driver,19,24
+WA,193,2016,Single,570,110,Passenger,20,26
+WA,193,2016,Single,570, ,Driver,20,26
+WA,193,2016,Multiple,556,90,Passenger,20,26
+WA,193,2016,Multiple,556,70,Driver,20,26
+WA,193,2016,Single,570,110,Driver,20,26
+WA,193,2016,Single,570,110,Passenger,20,26
+WA,193,2016,Multiple,556,110,Driver,21,25
+WA,193,2016,Multiple,556,90,Passenger,21,25
+WA,193,2016,Single,570,110,Passenger,21,25
+WA,193,2016,Single,570,110,Driver,21,25
+WA,193,2016,Single,570,110,Passenger,21,25
+WA,193,2016,Single,570,100,Driver,22,37
+WA,193,2016,Multiple,556,110,Driver,22,37
+WA,193,2016,Single,570,70,Motorcycle rider,22,37
+WA,193,2016,Single,570,80,Driver,22,37
+WA,193,2016,Multiple,556,110,Driver,23,33
+WA,193,2016,Single,570,110,Driver,23,33
+WA,193,2016,Multiple,556,90,Pedestrian,23,33
+WA,193,2016,Single,570,50,Other/unknown,23,33
+WA,193,2016,Single,570,110,Driver,23,33
+WA,193,2016,Single,570,110,Passenger,24,28
+WA,193,2016,Multiple,556,90,Driver,24,28
+WA,193,2016,Multiple,556,110,Driver,24,28
+WA,193,2016,Single,570,110,Driver,24,28
+WA,193,2016,Single,570,110,Passenger,24,28
+WA,193,2016,Single,570,90,Driver,24,28
+WA,193,2016,Single,570,110,Passenger,24,28
+WA,193,2016,Single,570,110,Passenger,25,35
+WA,193,2016,Multiple,556,50,Driver,25,35
+WA,193,2016,Multiple,556,50,Motorcycle pillion passenger,25,35
+WA,193,2016,Single,570,60,Passenger,25,35
+WA,193,2016,Single,570,110,Driver,25,35
+WA,193,2016,Single,570,50,Driver,25,35
+WA,193,2016,Multiple,556,100,Passenger,25,35
+WA,193,2016,Single,570,90,Driver,25,35
+WA,193,2016,Single,570,70,Driver,25,35
+WA,193,2016,Single,570,60,Passenger,26,36
+WA,193,2016,Single,570,60,Driver,26,36
+WA,193,2016,Single,570,110,Driver,26,36
+WA,193,2016,Multiple,556,110,Passenger,26,36
+WA,193,2016,Single,570,90,Driver,26,36
+WA,193,2016,Multiple,556,60,Pedestrian,26,36
+WA,193,2016,Multiple,556,70,Driver,27,23
+WA,193,2016,Single,570,110,Passenger,27,23
+WA,193,2016,Single,570,70,Motorcycle rider,27,23
+WA,193,2016,Single,570,80,Driver,28,23
+WA,193,2016,Single,570,70,Driver,28,23
+WA,193,2016,Single,570,50,Driver,28,23
+WA,193,2016,Single,570,80,Passenger,28,23
+WA,193,2016,Multiple,556,90,Driver,28,23
+WA,193,2016,Single,570,110,Passenger,28,23
+WA,193,2016,Multiple,556,80,Motorcycle rider,28,23
+WA,193,2016,Single,570,110,Motorcycle rider,29,18
+WA,193,2016,Multiple,556,110,Driver,29,18
+WA,193,2016,Single,570,50,Passenger,29,18
+WA,193,2016,Single,570,80,Motorcycle rider,30,22
+WA,193,2016,Multiple,556,90,Passenger,30,22
+WA,193,2016,Single,570,60,Driver,30,22
+WA,193,2016,Multiple,556,110,Driver,30,22
+WA,193,2016,Single,570,70,Motorcycle rider,30,22
+WA,193,2016,Single,570,60,Motorcycle rider,30,22
+WA,193,2016,Multiple,556,110,Driver,31,19
+WA,193,2016,Single,570,110,Driver,31,19
+WA,193,2016,Single,570,110,Driver,31,19
+WA,193,2016,Multiple,556,110,Driver,32,23
+WA,193,2016,Single,570, ,Driver,32,23
+WA,193,2016,Single,570,110,Driver,32,23
+WA,193,2016,Single,570,80,Motorcycle rider,33,17
+WA,193,2016,Multiple,556,110,Driver,33,17
+WA,193,2016,Multiple,556,60,Motorcycle rider,34,13
+WA,193,2016,Single,570,70,Motorcycle rider,34,13
+WA,193,2016,Multiple,556,60,Pedestrian,34,13
+WA,193,2016,Multiple,556,70,Motorcycle rider,34,13
+WA,193,2016,Multiple,556,110,Driver,34,13
+WA,193,2016,Multiple,556,110,Driver,35,12
+WA,193,2016,Multiple,556,110,Passenger,35,12
+WA,193,2016,Single,570,70,Driver,35,12
+WA,193,2016,Single,570,60,Motorcycle rider,36,29
+WA,193,2016,Single,570,50,Driver,36,29
+WA,193,2016,Single,570, ,Driver,36,29
+WA,193,2016,Single,570,110,Driver,36,29
+WA,193,2016,Multiple,556,110,Driver,37,20
+WA,193,2016,Single,570,110,Driver,37,20
+WA,193,2016,Single,570,70,Motorcycle rider,37,20
+WA,193,2016,Single,570,110,Driver,37,20
+WA,193,2016,Single,570,110,Driver,38,19
+WA,193,2016,Multiple,556,110,Driver,38,19
+WA,193,2016,Multiple,556,110,Driver,38,19
+WA,193,2016,Single,570,80,Driver,38,19
+WA,193,2016,Single,570,60,Motorcycle rider,39,16
+WA,193,2016,Single,570,110,Driver,39,16
+WA,193,2016,Single,570,60,Motorcycle rider,39,16
+WA,193,2016,Single,570,110,Driver,40,19
+WA,193,2016,Single,570,110,Driver,40,19
+WA,193,2016,Single,570, ,Driver,40,19
+WA,193,2016,Multiple,556,60,Passenger,40,19
+WA,193,2016,Single,570,110,Motorcycle rider,40,19
+WA,193,2016,Single,570,50,Driver,40,19
+WA,193,2016,Single,570,90,Driver,40,19
+WA,193,2016,Single,570,100,Motorcycle rider,41,20
+WA,193,2016,Multiple,556,50,Motorcycle rider,41,20
+WA,193,2016,Multiple,556,80,Driver,41,20
+WA,193,2016,Single,570,110,Driver,42,14
+WA,193,2016,Multiple,556,80,Motorcycle rider,42,14
+WA,193,2016,Multiple,556,110,Pedestrian,42,14
+WA,193,2016,Multiple,556,60,Bicyclist,43,25
+WA,193,2016,Single,570,110,Driver,43,25
+WA,193,2016,Multiple,556,110,Driver,43,25
+WA,193,2016,Multiple,556,100,Motorcycle rider,43,25
+WA,193,2016,Single,570,110,Driver,44,26
+WA,193,2016,Single,570,80,Motorcycle rider,44,26
+WA,193,2016,Single,570,110,Driver,45,29
+WA,193,2016,Multiple,556,60,Motorcycle rider,45,29
+WA,193,2016,Single,570,50,Driver,45,29
+WA,193,2016,Single,570,110,Driver,45,29
+WA,193,2016,Multiple,556,110,Driver,45,29
+WA,193,2016,Single,570,110,Driver,45,29
+WA,193,2016,Multiple,556,110,Driver,46,27
+WA,193,2016,Multiple,556,110,Motorcycle rider,46,27
+WA,193,2016,Single,570,50,Driver,46,27
+WA,193,2016,Multiple,556,90,Driver,47,17
+WA,193,2016,Multiple,556,90,Pedestrian,47,17
+WA,193,2016,Single,570,60,Motorcycle rider,47,17
+WA,193,2016,Single,570,110,Motorcycle rider,48,27
+WA,193,2016,Single,570,110,Driver,48,27
+WA,193,2016,Single,570,110,Motorcycle rider,48,27
+WA,193,2016,Multiple,556,80,Pedestrian,48,27
+WA,193,2016,Single,570,110,Driver,50,14
+WA,193,2016,Single,570,110,Motorcycle rider,51,10
+WA,193,2016,Single,570,100,Driver,52,12
+WA,193,2016,Multiple,556,110,Motorcycle rider,52,12
+WA,193,2016,Multiple,556,60,Pedestrian,52,12
+WA,193,2016,Multiple,556,110,Driver,53,20
+WA,193,2016,Multiple,556,70,Motorcycle rider,53,20
+WA,193,2016,Single,570,110,Driver,53,20
+WA,193,2016,Multiple,556,110,Driver,53,20
+WA,193,2016,Single,570,110,Driver,54,11
+WA,193,2016,Multiple,556,110,Pedestrian,55,9
+WA,193,2016,Single,570,90,Motorcycle rider,57,15
+WA,193,2016,Multiple,556,80,Driver,57,15
+WA,193,2016,Single,570,80,Driver,58,17
+WA,193,2016,Single,570,110,Driver,59,20
+WA,193,2016,Multiple,556,70,Passenger,60,15
+WA,193,2016,Single,570,110,Driver,61,18
+WA,193,2016,Single,570,110,Driver,62,12
+WA,193,2016,Multiple,556,110,Driver,64,4
+WA,193,2016,Multiple,556,60,Driver,65,10
+WA,193,2016,Multiple,556,60,Driver,66,12
+WA,193,2016,Multiple,556,70,Passenger,66,12
+WA,193,2016,Single,570,110,Motorcycle rider,67,10
+WA,193,2016,Multiple,556,50,Pedestrian,69,14
+WA,193,2016,Multiple,556,60,Bicyclist,69,14
+WA,193,2016,Multiple,556,110,Driver,70,8
+WA,193,2016,Single,570,110,Driver,70,8
+WA,193,2016,Multiple,556,70,Pedestrian,71,11
+WA,193,2016,Multiple,556,110,Passenger,74,10
+WA,193,2016,Multiple,556,110,Driver,75,12
+WA,193,2016,Single,570,110,Driver,75,12
+WA,193,2016,Multiple,556,50,Driver,76,17
+WA,193,2016,Multiple,556,60,Pedestrian,78,8
+WA,193,2016,Pedestrian,169,60,Pedestrian,80,9
+WA,193,2016,Multiple,556,80,Motorcycle rider,80,9
+WA,193,2016,Single,570,110,Driver,81,9
+WA,193,2016,Multiple,556,100,Pedestrian,81,9
+WA,193,2016,Single,570,110,Passenger,84,7
+WA,193,2016,Multiple,556,60,Driver,88,10

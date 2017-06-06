@@ -1,0 +1,203 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway';
+}
+
+header {
+  width: 100%;
+  height: 70px;
+  background: white;
+  border-bottom: 1px solid rgb(237,238,238);
+  box-shadow: 0 5px 5px rgba(0,0,0,.2);
+  position: fixed; 
+}
+
+h1, h2, h3, h4, h5, a, p {
+    color: rgb(41, 41, 41)
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 20pt;
+  margin: 0;
+  color: rgb(41, 41, 41);
+  text-align: center;
+  padding: 18px 10px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 24px;
+  text-transform: uppercase;
+  line-height: 40px;
+}
+
+h3 {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  margin: 0px 0px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 14px;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 5px 0px 5px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.description{
+  padding-top: 70px;
+}
+
+.visualisation{
+}
+
+svg {
+    width: 722px;
+    height: 521px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.footer{
+  padding: 50px 0px 00px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  background-color: rgb(41, 41, 41);
+}
+
+.footer p {
+  margin: 0px;
+  font-size: 14px;
+  padding-bottom: 15px;
+  color: white;
+  line-height: 22px;
+}
+
+.footer a {
+  margin: 0px;
+  font-size: 14px;
+  padding: 15px;
+  color: white;
+  padding-bottom: 0px;
+  line-height: 22px;
+}
+
+.footer h5{
+  text-transform: uppercase;
+  font-size: 14pt;
+  margin: 0px;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-weight: 200;
+}
+
+#copyright{
+  font-size: 12px;
+  padding: 40px 0px 10px 0px;
+}
+
+#svg-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  font-size: 30px;
+}
+
+#path1 {
+  fill: #3182bd;
+}
+
+#path2 {
+  fill: #CCCCFF;
+}
+
+#path3 {
+  fill: #CCE5FF;
+}
+
+path.link {
+    fill: none;
+    stroke: #666;
+    stroke-width: 1.5px;
+}
+
+marker#licensing {
+    fill: #3182bd;
+}
+
+path.link.licensing {
+    stroke: #CCCCFF;
+}
+
+path.link.resolved {
+    stroke-dasharray: 0, 2 1;
+}
+
+circle {
+    fill: #CCE5FF;
+    stroke: #333;
+    stroke-width: 1.5px;
+    cursor: pointer;
+}
+
+text.shadow {
+    stroke: #fff;
+    stroke-width: 3px;
+    stroke-opacity: .8;
+}
+
+.arrow {
+  fill: #CCE5FF;
+  stroke: #333;
+  stroke-width: 5;
+}
+
+#arrow-cont {
+  cursor: pointer;
+}
+
+#selectstate {
+  width: 80px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.tooltip {
+  fill: blue;
+  stroke: green;
+}
+
+.references{
+  text-align: center;
+  padding: 50px 0px;
+
+
+}

@@ -1,0 +1,239 @@
+﻿<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+</style>
+<body>
+    <select>
+        <option value="AUS">AUS</option>
+        <option value="ACT">ACT</option>
+        <option value="NSW">NSW</option>
+        <option value="VIC">VIC</option>
+        <option value="SA">SA</option>
+        <option value="NT">NT</option>
+        <option value="QLD">QLD</option>
+        <option value="TAS">TAS</option>
+        <option value="WA">WA</option>
+</select>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+
+<script>
+    
+var selectedState = 'AUS';
+
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var x = d3.scale.linear()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var color = d3.scale.category10();
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left");
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    
+buildPlot(selectedState);
+d3.select("select").on("input", function () {
+    buildPlot(this.value);
+})
+    ///////////////////////////////////////////////////////////////////
+
+var dataArray = [];
+
+function buildPlot(selectedState) {
+    d3.csv("Fatalities2016.csv", function (error, data) {
+
+
+        if (error) throw error;
+
+        //alert(JSON.stringify(data));
+        dataArray = [];
+
+        switch (selectedState) {
+
+            case 'ACT':
+
+                data.forEach(function (d) {
+                    if (d.State == 'ACT') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            case 'NSW':
+
+                data.forEach(function (d) {
+                    if (d.State == 'NSW') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            case 'NT':
+
+                data.forEach(function (d) {
+                    if (d.State == 'NT') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            case 'QLD':
+
+                data.forEach(function (d) {
+                    if (d.State == 'QLD') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            case 'SA':
+
+                data.forEach(function (d) {
+                    if (d.State == 'SA') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            case 'TAS':
+
+                data.forEach(function (d) {
+                    if (d.State == 'TAS') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            case 'VIC':
+
+                data.forEach(function (d) {
+                    if (d.State == 'VIC') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            case 'WA':
+
+                data.forEach(function (d) {
+                    if (d.State == 'WA') {
+                        dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                        console.log(d.State)
+                    }
+                });
+
+                break;
+
+            default:
+              
+
+                data.forEach(function (d) {
+                    dataArray.push({ Age: +d.Age, crashes_per_age: +d.crashes_per_age });
+                    console.log(d.State)
+                })
+
+                break;
+
+
+
+        };
+
+        alert(dataArray.length);
+        ///////////////////////////////////////////////////////////////////
+
+        x.domain(d3.extent(dataArray, function (d) { return d.Age; })).nice();
+        y.domain(d3.extent(dataArray, function (d) { return d.crashes_per_age; })).nice();
+
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis)
+          .append("text")
+            .attr("class", "label")
+            .attr("x", width)
+            .attr("y", +25)
+            .style("text-anchor", "end")
+            .text("Age (years)");
+
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis)
+          .append("text")
+            .attr("class", "label")
+            .attr("transform", "rotate(-90)")
+            .attr("y", 6)
+            .attr("dy", ".71em")
+            .style("text-anchor", "end")
+            .text("Number of crashes")
+
+        var dots = svg.selectAll(".dot").data(dataArray);
+
+        // new
+          dots.enter().append("circle")
+            .attr("class", "dot")
+            .attr("r", 3.5)
+            .attr("cx", function (d) { return x(d.Age); })
+            .attr("cy", function (d) { return y(d.crashes_per_age); })
+            .style("fill", function (d) { return color(d.Age); });
+
+        //old or excess
+          dots.exit()
+              .remove()
+
+        // update
+          dots.attr("cx", function (d) { return x(d.Age); })
+              .attr("cy", function (d) { return y(d.crashes_per_age); })
+              .style("fill", function (d) { return color(d.Age); });
+    });
+}
+
+</script>
+</body>
+</html>
